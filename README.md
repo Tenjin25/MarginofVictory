@@ -159,12 +159,19 @@ Both districts demonstrate how MarginofVictory calculator's "Lean" classificatio
 
 The **MarginofVictory** calculator's rating system captures important electoral trends in Pennsylvania's suburban districts, particularly PA-07 and PA-08, which have experienced significant political realignment over the past decade:
 
-#### Pennsylvania's 7th Congressional District Evolution
+##### Pennsylvania's 7th Congressional District Evolution
 
-- **2024 Senate Results:**  
+- **2024 Senate Results (PA-07 Districtwide):**  
   Dave McCormick (R): 49.6%  
   Bob Casey Jr. (D): 47.8%  
   Margin: McCormick +1.8% (Lean Republican)
+
+- **2024 Senate Results (Northampton County):**  
+  Dave McCormick (R): 49.13%  
+  Bob Casey Jr. (D): 48.54%  
+  Margin: McCormick +0.59% (Tilt Republican)
+
+> *Note: While McCormick carried PA-07 districtwide by 1.8%, in Northampton County—a key swing county—his margin was only +0.59%, demonstrating the district’s internal competitiveness.*
 
 - **2024 Presidential Results (Northampton County - Major PA-07 Component):**  
   Donald Trump (R): 50.40%  
@@ -182,8 +189,19 @@ The **MarginofVictory** calculator's rating system captures important electoral 
   Margin: Casey +10.2% (Safe Democratic)
 
 **Electoral Shift:**  
-PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), representing a 12.0% swing toward Republicans between 2018 and 2024.
+PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%) districtwide (swing: 12.0%), but the Northampton County core moved to Tilt Republican (+0.59%)—a swing of 9.61% from 2018.
 
+---
+
+**Summary Table:**
+
+| District  | 2018                                    | 2020                                    | 2022                                    | 2024                                                      |
+|-----------|------------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------------------------------|
+| **PA-01** | Casey +13.8 (D)                         | Biden +4.6 (D)                           | —                                        | Casey +0.9 (D)<br>Harris +0.4 (D)<br>**Bucks flips R**    |
+| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)      | McCormick +1.8 (R)\*<br>Northampton: +0.59 (R)            |
+| **PA-08** | Cartwright +9.8 (D)<br>Casey +6.2 (D)   | Cartwright +3.6 (D)<br>Trump +2.9 (R)    | Cartwright +2.4 (D)<br>Fetterman +1.2 (D) | **Bresnahan +1.6 (R) (flip)**<br>McCormick +4.5 (R)<br>Trump ~+8.5 (R)              |
+
+\* Districtwide total. Northampton County (the swing core of PA-07) was McCormick +0.59%.
 #### Pennsylvania's 8th Congressional District Evolution (Scranton/Wilkes-Barre Area)
 
 - **2024 House Results:**  
