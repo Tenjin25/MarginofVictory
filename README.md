@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-**MarginofVictory** is a Java application designed to analyze electoral race competitiveness by calculating the margin of victory and providing professional race ratings. This enhanced version (v2.0) demonstrates programming skills that are applied to real-world political analysis, while following industry standards and CPT-236 course objectives.
+**MarginofVictory** calculator is a Java application designed to analyze electoral race competitiveness by calculating the margin of victory and providing professional race ratings. This enhanced version (v2.0) demonstrates programming skills that are applied to real-world political analysis, while following industry standards and CPT-236 course objectives.
 
 **Developer:** Shamar Davis  
 **Course:** CPT-236 (Computer Programming)  
@@ -101,18 +101,18 @@ These examples demonstrate how the MOVCalculator's race rating system applies to
   This district shows modest ticket-splitting favoring Democrats, where the Democratic House candidate slightly outperformed Harris. This suggests effective campaigning by Tran and potential dissatisfaction with the Republican incumbent Steel, even in a district that narrowly preferred Harris for president.
 
 **Strategic Implications:**  
-Both districts demonstrate how the MOVCalculator's "Lean" classification correctly identifies seats where split-ticket voting can determine outcomes, making them genuine pickup opportunities despite modest presidential leans.
+Both districts demonstrate how MarginofVictory calculator's "Lean" classification correctly identifies seats where split-ticket voting can determine outcomes, making them genuine pickup opportunities despite modest presidential leans.
 
 ### Pennsylvania Electoral History and Regional Realignment
 
-The MOVCalculator's rating system captures important electoral trends in Pennsylvania's suburban districts, particularly PA-07 and PA-08, which have experienced significant political realignment over the past decade:
+The **MarginofVictory** calculator's rating system captures important electoral trends in Pennsylvania's suburban districts, particularly PA-07 and PA-08, which have experienced significant political realignment over the past decade:
 
 #### Pennsylvania's 7th Congressional District Evolution
 
 - **2024 Senate Results:**  
   Dave McCormick (R): 49.6%  
   Bob Casey Jr. (D): 47.8%  
-  Margin: McCormick +1.8% (Lean Republican) ✅ CORRECTED CLASSIFICATION
+  Margin: McCormick +1.8% (Lean Republican)
 
 - **2024 Presidential Results (Northampton County - Major PA-07 Component):**  
   Donald Trump (R): 50.40%  
