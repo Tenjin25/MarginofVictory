@@ -58,6 +58,8 @@ Chuck Edwards (Republican): 53.80%
 Jasmine Beach-Ferrara (Democrat): 44.50%
 Margin of Victory: 9.30%
 Chuck Edwards (Republican) is the winner. Race rating: Likely Republican
+
+Thank you for using the Margin of Victory calculator!
 ```
 ## Sample Output 2 - Safe Democratic Governorship Hold
 ```
@@ -82,7 +84,7 @@ Mark Robinson (Republican): 40.08%
 Margin of Victory: 14.82%
 Josh Stein (Democrat) is the winner. Race rating: Safe Democratic
 
-Thank you for using Margin of Victory calculator!
+Thank you for using the Margin of Victory calculator!
 ```
 ## Sample Output 3 - Sent Democratic (Flip)
 ```
@@ -108,7 +110,7 @@ Margin of Victory: 17.80%
 Chrissy Houlahan (Democrat) is the winner. Race rating: Safe Democratic
 ** FLIP: Democratic gains this seat! **
 
-Thank you for using Margin of Victory calculator!
+Thank you for using the Margin of Victory calculator!
 
 ```
 ## Real-World Case Studies
