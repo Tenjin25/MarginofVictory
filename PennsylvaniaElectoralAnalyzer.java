@@ -32,6 +32,11 @@ public class PennsylvaniaElectoralAnalyzer {
     private static final double PA01_2024_CASEY_MARGIN = 0.9;     // Tilt Democratic
     private static final double PA01_2024_HARRIS_MARGIN = 0.4;    // Tilt Democratic
     
+    // PA-07 and PA-08 2022 results
+    private static final double PA07_2022_WILD_MARGIN = 2.0;         // Wild (D) +2
+    private static final double PA07_2022_FETTERMAN_MARGIN = 4.5;    // Fetterman (D) +4.5
+    private static final double PA08_2022_FETTERMAN_MARGIN = 1.2;    // Fetterman (D) +1.2
+    
     // Professional formatting for electoral analysis
     private static final DecimalFormat MARGIN_FORMAT = new DecimalFormat("0.00");
     private static final DecimalFormat SWING_FORMAT = new DecimalFormat("0.00");
@@ -45,11 +50,23 @@ public class PennsylvaniaElectoralAnalyzer {
      */
     public static void analyzePennsylvaniaCompetitiveDistricts() {
         System.out.println("PENNSYLVANIA COMPETITIVE DISTRICTS ANALYSIS - CORRECTED DATA");
-        System.out.println("═══════════════════════════════════════════════════════════════════════");
+        System.out.println("═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════");
+        System.out.println();
+        // SUMMARY TABLE OF KEY DISTRICT SWINGS (2016–2024)
+        System.out.println("DISTRICT SWING SUMMARY (2018–2024)");
+        System.out.println("");
+        System.out.println("| District                                                                      | 2018 Margin                   | 2020 Margin                   | 2022 Margin                      | 2024 Margin                                                        |");
+        System.out.println("+-------------------------------------------------------------------------------+-------------------------------+-------------------------------+-------------------------------+-----------------------------------------------------------------------+");
+        System.out.println("| PA-07 (Lehigh Valley/Carbon/Monroe)                                           | Casey +13.8%                  | Biden +0.72%                  | Wild +2.0% / Fetterman +4.5%     | Mackenzie +1.0% / McCormick +1.8% / Trump +1.78%                   |");
+        System.out.println("| PA-08 (NEPA)                                                                  | Casey +6.2% / Cartwright +9.8%| Cartwright +3.6% / Trump +2.9 |Cartwright +2.4% / Fetterman +1.2%| Bresnahan +1.6% / McCormick +4.5% / Trump +8.5%                    |");
+        System.out.println("| PA-01 (Bucks/Montgomery)                                                      | Casey +13.8%                  | Biden +4.6%                   | Fetterman +7.5                   | Harris +0.4% /Casey +0.9                                           |");
+        System.out.println("+-------------------------------------------------------------------------------+-------------------------------+-------------------------------+-------------------------------+-----------------------------------------------------------------------+");
+        System.out.println();
+        System.out.println("Note: 2018 Senate margin for PA-08 is Casey +6.2% (53.1-46.9). 2018 House margin for PA-08 (Cartwright +9.8%) is also shown. 2022 and 2024 margins for PA-01 are Harris +0.4%. 2024 margins for PA-08 are Bresnahan (House) +1.6%, McCormick (Senate) +4.5%, and Trump (President) +8.5%. 2024 margins for PA-07 are Mackenzie (House) +1.0%, McCormick (Senate) +1.8%, and Trump (President) +1.78%. PA-07 includes the Lehigh Valley, Carbon County, and part of Monroe County. PA-08 is NEPA (Northeastern Pennsylvania) including most of Luzerne (Wilkes-Barre/Hazleton) and Monroe County, all of Lackawanna (Scranton), Wayne and Pike Counties. PA-01 covers Bucks and part of Montgomery County. Montgomery County saved Harris from losing another congressional district. The Republican representative in PA-01 is not included in this table because he typically wins by a landslide, making the district's competitive margins more relevant in statewide and federal races.");
         System.out.println();
         
         // PA-07 Northampton County volatility analysis
-        System.out.println("PA-07 NORTHAMPTON COUNTY ELECTORAL VOLATILITY:");
+        System.out.println("PA-07 (Lehigh Valley/Carbon/Monroe) NORTHAMPTON COUNTY ELECTORAL VOLATILITY:");
         System.out.println("2016: Trump +" + MARGIN_FORMAT.format(NORTHAMPTON_2016_TRUMP_MARGIN) + 
                           "% (Lean Republican) - 28-year breakthrough");
         System.out.println("2020: Biden +" + MARGIN_FORMAT.format(NORTHAMPTON_2020_BIDEN_MARGIN) + 
@@ -68,7 +85,7 @@ public class PennsylvaniaElectoralAnalyzer {
         System.out.println();
         
         // PA-08 Cartwright progressive decline analysis (corrected)
-        System.out.println("PA-08 CARTWRIGHT ELECTORAL DECLINE (CORRECTED):");
+        System.out.println("PA-08 (NEPA) CARTWRIGHT ELECTORAL DECLINE (CORRECTED):");
         System.out.println("2018: Cartwright +" + SWING_FORMAT.format(CARTWRIGHT_2018_MARGIN) + 
                           "% (Likely Democratic)");
         System.out.println("2020: Cartwright +" + SWING_FORMAT.format(CARTWRIGHT_2020_MARGIN) + 
@@ -101,21 +118,34 @@ public class PennsylvaniaElectoralAnalyzer {
         System.out.println("Electoral Shift: PA-01 moved from Safe Democratic (+" + MARGIN_FORMAT.format(PA01_2018_CASEY_MARGIN) + "%) to Tilt Democratic (+" + MARGIN_FORMAT.format(PA01_2024_CASEY_MARGIN) + "%), a " + MARGIN_FORMAT.format(pa01_swing) + "% swing toward Republicans (2018-2024)");
         System.out.println();
         
+        // PA-07 2022 results
+        System.out.println("PA-07 NORTHAMPTON COUNTY 2022 RESULTS:");
+        System.out.println("2022 House: Wild +" + MARGIN_FORMAT.format(PA07_2022_WILD_MARGIN) + "% (Lean Democratic)");
+        System.out.println("2022 Senate: Fetterman +" + MARGIN_FORMAT.format(PA07_2022_FETTERMAN_MARGIN) + "% (Likely Democratic)");
+        System.out.println();
+        // PA-08 2022 Fetterman result
+        System.out.println("PA-08 CARTWRIGHT 2022 RESULTS:");
+        System.out.println("2022 Senate: Fetterman +" + MARGIN_FORMAT.format(PA08_2022_FETTERMAN_MARGIN) + "% (Lean Democratic)");
+        System.out.println("Note: In 2022, both Cartwright and Fetterman won PA-08, demonstrating continued split-ticket voting in this blue-collar district.");
+        System.out.println("Note: The 2022 governor's race is omitted from this analysis due to significant candidate quality issues on the Republican side, which affected the competitiveness and interpretive value of the results.");
+        System.out.println();
+        
         // Comparative analysis programming
         System.out.println("COMPARATIVE DISTRICT ANALYSIS:");
-        System.out.println("PA-07 Pattern: Electoral volatility - genuine swing territory");
-        System.out.println("PA-08 Pattern: Progressive decline - consistent Republican gains");
-        System.out.println("PA-01 Pattern: Electoral trend - Democratic stronghold eroding");
-        System.out.println("Note: The regional tradition of populist-leaning Democrats in NEPA and the suburbs made these districts receptive to Trump after Obama, despite voting for Obama in 2008 and 2012. This distinguishes them from urban Democratic strongholds.");
-        System.out.println("Combined Significance: 12.0%, 11.4%, and 13.4% swings demonstrate regional realignment");
+        // VISUAL AID: Bullet Point Summary
+        System.out.println("• PA-07: Genuine swing territory (high volatility)");
+        System.out.println("• PA-08: Consistent Republican momentum (progressive decline)");
+        System.out.println("• PA-01: Democratic erosion (trend toward competitiveness)");
+        System.out.println();
+        // VISUAL AID: Placeholder for Screenshot
+        System.out.println("[VISUAL AID: Insert screenshot of summary table or chart here.]");
         System.out.println();
         
         // MOVCalculator applications
         System.out.println("MOVCALCULATOR EDUCATIONAL APPLICATIONS:");
-        System.out.println("• Data Accuracy Validation: Corrected 2022 margin shows steady decline pattern");
-        System.out.println("• Volatility vs. Momentum: Programming logic to distinguish swing vs. trending districts");
-        System.out.println("• Historical Context Integration: Multi-election temporal analysis capabilities");
-        System.out.println("• Strategic Assessment: Resource allocation based on district trajectory patterns");
+        // VISUAL AID: Diagram Suggestion
+        System.out.println("[VISUAL AID: Insert flowchart showing data validation and analysis steps.]");
+        System.out.println("(E.g., Data Input → Validation → Calculation → Trend Analysis → Output)");
         System.out.println();
         
         System.out.println("PROFESSIONAL PROGRAMMING VALUE:");
@@ -170,3 +200,11 @@ public class PennsylvaniaElectoralAnalyzer {
         System.out.println("in professional programming applications requiring historical accuracy.");
     }
 }
+
+/**
+ * Attribution and AI Assistance Note:
+ * Approximately 80–85% of this code (core logic, data analysis, structure, and narrative) was written by Shamar Davis.
+ * Enhancements (output formatting, validation, professional standards, and calculation of electoral swings) were assisted by GitHub Copilot (AI).
+ * All research, data selection, narrative analysis, and conclusions are original work by Shamar Davis.
+ * The AI was used as a tool to enhance clarity, accuracy, and professional presentation, but the core analysis and interpretation reflect the author's own research and perspective.
+ */
