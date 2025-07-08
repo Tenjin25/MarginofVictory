@@ -1,12 +1,11 @@
-//Name: Shamar Davis
-//Date: July 7, 2025
-//Purpose: Create a program that displays the state abbreviation, district number, candidate and who won.
-
-//input: Prompt the user to enter the state abbreviation and district (state String, districtNumber int).
-//Prompt user for the first candidate's name along with party affiliation and store it in a String variable. Candidate1, Candidate2, partyAffiliation1, partyAffliation2 String
-
-//processing: Calculate the margin and determine the winner
-
+/*
+ *Name: Shamar Davis
+ *Date: July 7, 2025
+ *Purpose: Create a program that displays the state abbreviation, office or district number, candidate and who won.
+ *input: Prompt the user to enter the state abbreviation and district (state and officeORDistrict String)
+ *Prompt user for the first candidate's name along with party affiliation and store it in a String variable. Candidate1, Candidate2, partyAffiliation1, partyAffliation2 String.
+ *processing: Calculate the margin and determine the winner
+*/
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -14,13 +13,14 @@ import java.util.Scanner;
 public class MarginOfVictory  {
     public static void main (String[] args) {
         Scanner inputDevice = new Scanner(System.in);
-        //Prompt the user to enter the state abbreviation and district.
+        // Prompt the user to enter the state abbreviation and office/district.
         System.out.print("State Abbreviation: ");
         String state = inputDevice.next().toUpperCase();
         inputDevice.nextLine(); // consume the leftover newline
-        System.out.print("District Number: ");
-        int districtNumber = inputDevice.nextInt();
-        inputDevice.nextLine(); // consume leftover newline
+        System.out.print("Office or District (e.g., 1, Governor, Mayor): ");
+        String officeOrDistrict = inputDevice.nextLine();
+
+
 
         //Prompt user for the first candidate's name along with party affiliation and store it in a String variable.
         System.out.print("Enter the first candidate's name: ");
@@ -29,10 +29,10 @@ public class MarginOfVictory  {
         System.out.println("Enter the second candidate's name: ");
 
         String Candidate2 = inputDevice.nextLine();
-        System.out.print("What is the party affiliation of " + Candidate1 + "? ");
+        System.out.print("What is the party affiliation of " + Candidate1 + "?" + " (Democrat or Republican) ");
         String partyAffiliation1 = inputDevice.nextLine();
         System.out.println(Candidate1 + " is a " + partyAffiliation1 + ".");
-        System.out.print("What is the party affiliation of " + Candidate2 + "? ");
+        System.out.print("What is the party affiliation of " + Candidate2 + "?" + " (Democrat or Republican) ");
         String partyAffiliation2 = inputDevice.nextLine();
         System.out.println(Candidate2 + " is a " + partyAffiliation2 + ".");
         //Prompt the use to enter the incumbent party?
@@ -52,7 +52,7 @@ public class MarginOfVictory  {
 
         // Display results with professional formatting
         System.out.println("\n--- Election Results ---");
-        System.out.println("State: " + state + " | District: " + districtNumber);
+        System.out.println("State: " + state + " | Office/District: " + officeOrDistrict);
         System.out.println(Candidate1 + " (" + partyAffiliation1 + "): " + df.format(votes1) + "%");
         System.out.println(Candidate2 + " (" + partyAffiliation2 + "): " + df.format(votes2) + "%");
         System.out.println("Margin of Victory: " + df.format(margin) + "%");
@@ -60,12 +60,13 @@ public class MarginOfVictory  {
         if (votes1 == votes2) {
             System.out.println("It's a tie! Race Rating: " + rating);
         } else {
-            System.out.println(winner + " (" + winnerParty + ") is the winner. Race rating: " + rating + " " + winnerParty);
+            System.out.println(winner + " (" + winnerParty + ") is the winner. Race rating: " + rating + " " + getPartyAdjective(winnerParty));
             if (!winnerParty.equalsIgnoreCase(incumbentParty)) {
-                System.out.println("** FLIP: " + winnerParty + " gains this seat! **");
+                System.out.println("** FLIP: " + getPartyAdjective(winnerParty) + " gains this seat! **");
             }
             // Display closing message and close input device for resource management
-            System.out.println("Thank you for using Margin of Victory calculator!");
+            System.out.println("");
+            System.out.println("Thank you for using the Margin of Victory calculator!");
             inputDevice.close();
         }
     }
@@ -116,6 +117,22 @@ public static String getRaceRating(double margin) {
         return "Likely";
     } else {
         return "Safe";
+    }
+}
+
+/**
+ * Converts party affiliation to its adjective form for race ratings.
+ * For example, "Democrat" -> "Democratic", "Republican" -> "Republican".
+ * @param party The party affiliation
+ * @return The adjective form of the party
+ */
+public static String getPartyAdjective(String party) {
+    if (party.equalsIgnoreCase("Democrat")) {
+        return "Democratic";
+    } else if (party.equalsIgnoreCase("Republican")) {
+        return "Republican";
+    } else {
+        return party;
     }
 }
 }
