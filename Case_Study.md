@@ -170,9 +170,11 @@ The MarginofVictory calculator's rating system captures important electoral tren
 - **2022 House:** Wild (D) +2.0 (Lean Democratic)
 - **2022 Senate:** Fetterman (D) +4.5 (Likely Democratic)
 - **2024 President (Northampton):** Trump (R) +1.78 (Lean Republican)
+- **2024 House:** Mackenzie (R) +1.0 (Lean Republican, Flip)
 - **2024 Senate (PA-07 Districtwide):** McCormick (R): 49.6%, Casey (D): 47.8% — Margin: McCormick +1.8% (Lean Republican)
 - **2024 Senate (Northampton County):** McCormick (R): 49.13%, Casey (D): 48.54% — Margin: McCormick +0.59% (Tilt Republican)
 - **2024:** Monroe County flips Republican for the first time since 2004.
+- **2024:** PA-07 flipped Republican for the first time since the lines were redrawn in 2018.
 - **Electoral Shift:** PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%) districtwide, but the Northampton County core moved to Tilt Republican (+0.59%).
 
 ---
@@ -181,7 +183,7 @@ The MarginofVictory calculator's rating system captures important electoral tren
 
 | District  | 2018           | 2020           | 2022                     | 2024                                                                 |
 |-----------|----------------|----------------|--------------------------|----------------------------------------------------------------------|
-| **PA-07** | Casey +10.2(D) | Biden +0.72(D) | Wild +2.0(D), Fetterman +4.5(D) | McCormick +1.8(R)\*<br>Northampton: +0.59(R)<br>Trump +1.78(R, Northampton) |
+| **PA-07** | Casey +10.2(D) | Biden +0.72(D) | Wild +2.0(D), Fetterman +4.5(D) | Mackenzie +1.0 (R) McCormick +1.8(R)\*<br>Northampton: +0.59(R)<br>Trump +1.78(R, Northampton) |
 
 \* Districtwide total; Northampton County (the swing core of PA-07): McCormick +0.59%.
 **Pennsylvania's 8th Congressional District (Scranton/Wilkes-Barre):**
@@ -204,6 +206,6 @@ The MarginofVictory calculator's rating system captures important electoral tren
 
 | District  | 2018                                    | 2020                                    | 2022                                    | 2024                                                      |
 |-----------|------------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------------------------------|
-| **PA-01** | Casey +13.8 (D)                         | Biden +4.6 (D)                           | —                                        | Casey +0.9 (D)<br>Harris +0.4 (D)<br>**Bucks flips R for the first time since 1988**    |
-| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)      | McCormick +1.8 (R)<br>Trump +1.78 (R, Northampton)<br>**Monroe flips R for the first time since 2004**        |
+| **PA-01** | Casey +13.8 (D)                         | Biden +4.6 (D)                           | Fetterman +7.5 (D)                        | Casey +0.9 (D)<br>Harris +0.4 (D)<br>**Bucks flips R for the first time since 1988**    |
+| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)       | McCormick +1.8 (R)<br>Trump +1.78 (R, Northampton)<br>**Monroe flips R for the first time since 2004**        |
 | **PA-08** | Cartwright +9.8 (D)<br>Casey +6.2 (D)   | Cartwright +3.6 (D)<br>Trump +2.9 (R)    | Cartwright +2.4 (D)<br>Fetterman +1.2 (D) | **Bresnahan +1.6 (R) (flip)**<br>McCormick +4.5 (R)<br>Trump +8.5 (R)<br>**Monroe flips R for the first time since 2004** |
