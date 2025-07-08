@@ -35,32 +35,82 @@
 
 ---
 
-## Sample Output
+## Sample Output 1 - Likely Republican Congressional Hold
 
 ```
 State Abbreviation: NC
-District Number: 11
+Office or District (e.g., 1, Governor, Mayor): 11th Congressional District
 Enter the first candidate's name: Chuck Edwards
-Enter the second candidate's name:
+Enter the second candidate's name: 
 Jasmine Beach-Ferrara
-What is the party affiliation of Chuck Edwards? Republican
+What is the party affiliation of Chuck Edwards? (Democrat or Republican) Republican
 Chuck Edwards is a Republican.
-What is the party affiliation of Jasmine Beach-Ferrara? Democrat
+What is the party affiliation of Jasmine Beach-Ferrara? (Democrat or Republican) Democrat
 Jasmine Beach-Ferrara is a Democrat.
-Which party has the incumbency?
+Which party has the incumbency? 
 Republican
 Enter the vote percentage for Chuck Edwards (0-100): 53.8
 Enter the vote percentage for Jasmine Beach-Ferrara (0-100): 44.5
 
 --- Election Results ---
-State: NC | District: 11
+State: NC | Office/District: 11th Congressional District
 Chuck Edwards (Republican): 53.80%
 Jasmine Beach-Ferrara (Democrat): 44.50%
 Margin of Victory: 9.30%
+Chuck Edwards (Republican) is the winner. Race rating: Likely Republican
 ```
+## Sample Output 2 - Safe Democratic Governorship Hold
+```
+State Abbreviation: NC
+Office or District (e.g., 1, Governor, Mayor): Governor
+Enter the first candidate's name: Josh Stein
+Enter the second candidate's name: 
+Mark Robinson
+What is the party affiliation of Josh Stein? (Democrat or Republican) Democrat
+Josh Stein is a Democrat.
+What is the party affiliation of Mark Robinson? (Democrat or Republican) Republican
+Mark Robinson is a Republican.
+Which party has the incumbency? 
+Democratic
+Enter the vote percentage for Josh Stein (0-100): 54.90 
+Enter the vote percentage for Mark Robinson (0-100): 40.08
 
----
+--- Election Results ---
+State: NC | Office/District: Governor
+Josh Stein (Democrat): 54.90%
+Mark Robinson (Republican): 40.08%
+Margin of Victory: 14.82%
+Josh Stein (Democrat) is the winner. Race rating: Safe Democratic
 
+Thank you for using Margin of Victory calculator!
+```
+## Sample Output 3 - Sent Democratic (Flip)
+```
+State Abbreviation: PA
+Office or District (e.g., 1, Governor, Mayor): 6th Congressional District
+Enter the first candidate's name: Chrissy Houlahan
+Enter the second candidate's name: 
+Greg McCauley
+What is the party affiliation of Chrissy Houlahan? (Democrat or Republican) Democrat
+Chrissy Houlahan is a Democrat.
+What is the party affiliation of Greg McCauley? (Democrat or Republican) Republican
+Greg McCauley is a Republican.
+Which party has the incumbency? 
+Republican
+Enter the vote percentage for Chrissy Houlahan (0-100): 58.9   
+Enter the vote percentage for Greg McCauley (0-100): 41.1
+
+--- Election Results ---
+State: PA | Office/District: 6th
+Chrissy Houlahan (Democrat): 58.90%
+Greg McCauley (Republican): 41.10%
+Margin of Victory: 17.80%
+Chrissy Houlahan (Democrat) is the winner. Race rating: Safe Democratic
+** FLIP: Democratic gains this seat! **
+
+Thank you for using Margin of Victory calculator!
+
+```
 ## Real-World Case Studies
 
 These examples demonstrate how the **MarginofVictory** calculator's race rating system applies to actual election outcomes:
