@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-**MOVCalculator** is a Java application designed to analyze electoral race competitiveness by calculating the margin of victory and providing professional race ratings. This enhanced version (v2.0) demonstrates programming skills applied to real-world political analysis, following industry standards and CPT-236 course objectives.
+**MarginofVictory** is a Java application designed to analyze electoral race competitiveness by calculating the margin of victory and providing professional race ratings. This enhanced version (v2.0) demonstrates programming skills that are applied to real-world political analysis, while following industry standards and CPT-236 course objectives.
 
 **Developer:** Shamar Davis  
 **Course:** CPT-236 (Computer Programming)  
@@ -39,24 +39,24 @@
 
 ```
 State Abbreviation: NC
-District Number: 7
-Enter the first candidate's name: Jane Smith
-Enter the second candidate's name: John Doe
-What is the party affiliation of Jane Smith? Democratic
-Jane Smith is a Democratic.
-What is the party affiliation of John Doe? Republican
-John Doe is a Republican.
-Which party has the incumbency? Republican
-Enter the vote percentage for Jane Smith (0-100): 52.8
-Enter the vote percentage for John Doe (0-100): 47.2
+District Number: 11
+Enter the first candidate's name: Chuck Edwards
+Enter the second candidate's name:
+Jasmine Beach-Ferrara
+What is the party affiliation of Chuck Edwards? Republican
+Chuck Edwards is a Republican.
+What is the party affiliation of Jasmine Beach-Ferrara? Democrat
+Jasmine Beach-Ferrara is a Democrat.
+Which party has the incumbency?
+Republican
+Enter the vote percentage for Chuck Edwards (0-100): 53.8
+Enter the vote percentage for Jasmine Beach-Ferrara (0-100): 44.5
 
 --- Election Results ---
-State: NC | District: 7
-Jane Smith (Democratic): 52.80%
-John Doe (Republican): 47.20%
-Margin of Victory: 5.60%
-Jane Smith (Democratic) is the winner. Race rating: Lean Democratic
-** FLIP: Democratic gains this seat! **
+State: NC | District: 11
+Chuck Edwards (Republican): 53.80%
+Jasmine Beach-Ferrara (Democrat): 44.50%
+Margin of Victory: 9.30%
 ```
 
 ---
