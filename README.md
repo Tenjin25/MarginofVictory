@@ -86,7 +86,7 @@ Josh Stein (Democrat) is the winner. Race rating: Safe Democratic
 
 Thank you for using the Margin of Victory calculator!
 ```
-## Sample Output 3 - Safe Democratic (Flip)
+## Sample Output 3 - Safe Democratic Congressional (Flip)
 ```
 State Abbreviation: PA
 Office or District (e.g., 1, Governor, Mayor): 6th Congressional District
