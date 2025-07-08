@@ -63,7 +63,7 @@ Margin of Victory: 9.30%
 
 ## Real-World Case Studies
 
-These examples demonstrate how the MOVCalculator's race rating system applies to actual election outcomes:
+These examples demonstrate how the **MarginofVictory** calculator's race rating system applies to actual election outcomes:
 
 ### Ultra-Close Races (Tossup Category)
 
