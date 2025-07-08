@@ -17,7 +17,7 @@
 **MarginofVictory** calculator is a Java application designed to analyze electoral race competitiveness by calculating the margin of victory and providing professional race ratings. This enhanced version (v2.0) demonstrates programming skills that are applied to real-world political analysis, while following industry standards and CPT-236 course objectives.
 
 **Developer:** Shamar Davis  
-**Course:** CPT-236 (Computer Programming)  
+**Course:** CPT-236 (Intro to Java)  
 **Version:** 2.0 (Enhanced)  
 **Date:** July 7, 2025
 
@@ -161,6 +161,9 @@ PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), representi
   Margin: Casey +6.2% (Likely Democratic)
 
 ---
+## Additional Details on the Lehigh Valley and NEPA Realignment
+- For a **runnable code demonstration**, see [`PennsylvaniaElectoralAnalyzer.java`](./PennsylvaniaElectoralAnalyzer.java).
+- For a **visual/narrative case study with references and context**, see [`Case_Study.md`](./Case_Study.md).
 
 ## Installation and Usage
 
@@ -190,6 +193,9 @@ PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), representi
 - Real-world election data: [Ballotpedia](https://ballotpedia.org/)
 - Java documentation: [Oracle Java SE Docs](https://docs.oracle.com/en/java/)
 
+### Additional Political Analysis Standards
+1. **Sabato's Crystal Ball (UVA Center for Politics)**: Electoral analysis framework
+2. **FiveThirtyEight**: Statistical modeling and election forecasting
 ---
 
 **Copyright (c) 2025 Shamar Davis.  
