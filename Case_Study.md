@@ -149,8 +149,57 @@ public class PennsylvaniaElectoralAnalyzer {
     }
 }
 
-#### Regional Realignment Analysis
-**Combined Trend Pattern**: Both districts show consistent 10-12% swings toward Republicans, indicating broader regional realignment rather than candidate-specific effects. This demonstrates how the MarginCalculator's systematic rating approach captures both individual race competitiveness and broader electoral patterns.
+#### Pennsylvania Electoral History and Regional Realignment
+The MarginofVictory calculator's rating system captures important electoral trends in Pennsylvania's suburban districts, particularly PA-01, PA-07, and PA-08, which have experienced significant political realignment over the past decade:
+
+---
+
+**Pennsylvania's 1st Congressional District (Bucks/Montgomery):**
+- 2018 Senate: Casey (D) +13.8 (56.1-42.3)
+- 2020 President: Biden (D) +4.6
+- 2024 Senate: Casey (D) +0.9 (49.3-48.4)
+- 2024 President: Harris (D) +0.4
+- 2024: Bucks County flips Republican for the first time since 1988 by 291 votes; Montgomery County keeps district Democratic.
+- Electoral Shift: PA-01 moved from Safe Democratic (+13.8%) to Tilt Democratic (+0.9%), a 12.9% swing toward Republicans (2018-2024)
+
+**Pennsylvania's 7th Congressional District (Lehigh Valley):**
+- 2016 President (Northampton): Trump (R) +3.78 (Lean Republican) - First Republican win since 1988
+- 2018 Senate: Casey (D) +10.1 (54.2-44.1) (Safe Democratic)
+- 2020 President (Northampton): Biden (D) +0.72 (Tilt Democratic)
+- 2024 President (Northampton): Trump (R) +1.78 (Lean Republican)
+- 2024 Senate: McCormick (R) +1.8 (49.6-47.8) (Lean Republican)
+- 2024: Monroe County flips Republican for the first time since 2004.
+- Electoral Shift: PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), a 12.0% swing toward Republicans (2018-2024)
+
+**Pennsylvania's 8th Congressional District (Scranton/Wilkes-Barre):**
+- 2018 House: Cartwright (D) +9.8 (Likely Democratic)
+- 2018 Senate: Casey (D) +6.2 (53.1-46.9) (Likely Democratic)
+- 2020 House: Cartwright (D) +3.6 (Lean Democratic)
+- 2020 President: Trump (R) +2.9 (District), Cartwright outperformed top of ticket
+- 2022 House: Cartwright (D) +2.4 (Lean Democratic)
+- 2024 House: Bresnahan (R) +1.6 (Lean Republican, flip)
+- 2024 Senate: McCormick (R) +4.5 (52.25-47.75) (Lean Republican)
+- 2024 President: Trump (R) ~+8.5 (Likely Republican)
+- 2024: Monroe County flips Republican for the first time since 2004.
+- Electoral Shift: PA-08 moved from Likely Democratic (+6.2%) to Lean Republican (+4.5%), a 10.7% swing toward Republicans (2018–2024)
+
+---
+
+**Summary Table:**
+
+| District | 2018 | 2020 | 2022 | 2024 |
+|----------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| PA-01    | Casey +13.8 (D)             | Biden +4.6 (D)              | —                           | Casey +0.9 (D), Harris +0.4 (D), Bucks flips R |
+| PA-07    | Casey +10.2 (D)             | Biden +0.72 (D) (Northampton) | —                        | McCormick +1.8 (R), Trump +1.78 (R, Northampton) |
+| PA-08    | Cartwright +9.8 (D), Casey +6.2 (D) | Cartwright +3.6 (D), Trump +2.9 (R) | Cartwright +2.4 (D) (corrected) | Bresnahan +1.6 (R) (flip), McCormick +4.5 (R), Trump +8.5 (R) |
+
+---
+
+- **PA-01:** Casey +13.8 (2018), Biden +4.6 (2020), Casey +0.9 (2024), Harris +0.4 (2024), Bucks County flips Republican for the first time since 1988, Montgomery County keeps district Democratic.
+- **PA-07:** Casey +10.2 (2018), Biden +0.72 (2020, Northampton), McCormick +1.8 (2024), Trump +1.78 (2024, Northampton), shows volatility and swing status.
+- **PA-08:** Cartwright +9.8 (2018), Casey +6.2 (2018), Cartwright +3.6 (2020), Trump +2.9 (2020), Cartwright +2.4 (2022, corrected), Bresnahan +1.6 (2024, flip), McCormick +4.5 (2024), Trump +8.5 (2024).
+
+**Combined Trend Pattern**: PA-07, PA-08, and PA-01 all show consistent rightward movement, with PA-01 voting Republican for the first time since 1988 in Bucks County in 2024. Notably, Senator Casey won PA-01 by **+13.8** (56.1-42.3) in 2018, but his margin shrank to just **+0.9** (49.3-48.4) in 2024. Biden carried PA-01 by **+4.6** in 2020, and Harris by only **+0.4**. The Bucks County portion flipped Republican, but the Montgomery County portion kept the district from flipping outright. This indicates broader regional realignment rather than candidate-specific effects. This demonstrates how the MarginCalculator's systematic rating approach captures both individual race competitiveness and broader electoral patterns.
 
 **Split-Ticket Voting Implications**: The substantial ticket-splitting in PA-08 (Trump +8.49% vs. Cartwright's competitive showing) suggests that while these districts have moved rightward presidentially, they remain competitive for down-ballot Democratic candidates who maintain personal relationships with constituents.
 

@@ -22,9 +22,15 @@ public class PennsylvaniaElectoralAnalyzer {
     
     // PA-08 Cartwright decline data - corrected 2022 margin
     private static final double CARTWRIGHT_2018_MARGIN = 9.8;             // Likely Democratic
-    private static final double CARTWRIGHT_2020_MARGIN = 3.8;             // Lean Democratic  
+    private static final double CARTWRIGHT_2020_MARGIN = 3.6;             // Lean Democratic  
     private static final double CARTWRIGHT_2022_MARGIN = 2.4;             // Lean Democratic
     private static final double BRESNAHAN_2024_MARGIN = 1.6;              // Lean Republican
+    
+    // PA-01 Bucks/Montgomery County trend data
+    private static final double PA01_2018_CASEY_MARGIN = 13.8;    // Safe Democratic
+    private static final double PA01_2020_BIDEN_MARGIN = 4.6;     // Lean Democratic
+    private static final double PA01_2024_CASEY_MARGIN = 0.9;     // Tilt Democratic
+    private static final double PA01_2024_HARRIS_MARGIN = 0.4;    // Tilt Democratic
     
     // Professional formatting for electoral analysis
     private static final DecimalFormat MARGIN_FORMAT = new DecimalFormat("0.00");
@@ -71,6 +77,7 @@ public class PennsylvaniaElectoralAnalyzer {
                           "% (Lean Democratic)");
         System.out.println("2024: Bresnahan +" + SWING_FORMAT.format(BRESNAHAN_2024_MARGIN) + 
                           "% (Lean Republican) - SEAT FLIP");
+        System.out.println("Note: NEPA Democrats are likely populist-leaning, especially in blue-collar, working-class districts like PA-08. This likely contributed to their attraction to Trump after Obama left office. All of these districts voted for Obama in 2008 and 2012. Notably, the Republican who defeated Cartwright in 2024 was a CEO of a major electrical contracting company, reflecting the district's working-class and entrepreneurial character.");
         
         // Calculate corrected Cartwright decline
         double cartwright_2020_2022_swing = CARTWRIGHT_2020_MARGIN - CARTWRIGHT_2022_MARGIN;
@@ -83,11 +90,24 @@ public class PennsylvaniaElectoralAnalyzer {
         System.out.println("Classification: CONSISTENT REPUBLICAN MOMENTUM");
         System.out.println();
         
+        // PA-01 Bucks/Montgomery County trend analysis
+        System.out.println("PA-01 BUCKS/MONTGOMERY COUNTY ELECTORAL TREND:");
+        System.out.println("2018 Senate: Casey +" + MARGIN_FORMAT.format(PA01_2018_CASEY_MARGIN) + "% (Safe Democratic)");
+        System.out.println("2020 President: Biden +" + MARGIN_FORMAT.format(PA01_2020_BIDEN_MARGIN) + "% (Lean Democratic)");
+        System.out.println("2024 Senate: Casey +" + MARGIN_FORMAT.format(PA01_2024_CASEY_MARGIN) + "% (Tilt Democratic)");
+        System.out.println("2024 President: Harris +" + MARGIN_FORMAT.format(PA01_2024_HARRIS_MARGIN) + "% (Tilt Democratic)");
+        System.out.println("2024: Bucks County flips Republican for the first time since 1988; Montgomery County keeps district Democratic.");
+        double pa01_swing = PA01_2018_CASEY_MARGIN - PA01_2024_CASEY_MARGIN;
+        System.out.println("Electoral Shift: PA-01 moved from Safe Democratic (+" + MARGIN_FORMAT.format(PA01_2018_CASEY_MARGIN) + "%) to Tilt Democratic (+" + MARGIN_FORMAT.format(PA01_2024_CASEY_MARGIN) + "%), a " + MARGIN_FORMAT.format(pa01_swing) + "% swing toward Republicans (2018-2024)");
+        System.out.println();
+        
         // Comparative analysis programming
         System.out.println("COMPARATIVE DISTRICT ANALYSIS:");
         System.out.println("PA-07 Pattern: Electoral volatility - genuine swing territory");
         System.out.println("PA-08 Pattern: Progressive decline - consistent Republican gains");
-        System.out.println("Combined Significance: 12.0% and 11.4% swings demonstrate regional realignment");
+        System.out.println("PA-01 Pattern: Electoral trend - Democratic stronghold eroding");
+        System.out.println("Note: The regional tradition of populist-leaning Democrats in NEPA and the suburbs made these districts receptive to Trump after Obama, despite voting for Obama in 2008 and 2012. This distinguishes them from urban Democratic strongholds.");
+        System.out.println("Combined Significance: 12.0%, 11.4%, and 13.4% swings demonstrate regional realignment");
         System.out.println();
         
         // MOVCalculator applications
