@@ -241,13 +241,16 @@ PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), representi
 
 ## Citations and References
 
-- Industry-standard race rating thresholds: [Cook Political Report](https://www.cookpolitical.com/)
+- Industry-standard race rating thresholds: [Cook Political Report](https://www.cookpolitical.com/), [Sabato's Crystal Ball (UVA Center for Politics)](https://centerforpolitics.org/crystalball/), [FiveThirtyEight (now part of Cook Political Report)](https://fivethirtyeight.com/)
 - Real-world election data: [Ballotpedia](https://ballotpedia.org/)
 - Java documentation: [Oracle Java SE Docs](https://docs.oracle.com/en/java/)
 
-### Additional Political Analysis Standards
-1. **Sabato's Crystal Ball (UVA Center for Politics)**: Electoral analysis framework
-2. **FiveThirtyEight**: Statistical modeling and election forecasting
+---
+
+## Attribution and AI Assistance Note
+
+Some portions of this project, including formatting, data consistency checks, and calculation logic, were assisted by GitHub Copilot (AI). All research, data selection, narrative analysis, and conclusions are original work by Shamar Davis. The AI was used as a tool to enhance clarity, accuracy, and professional presentation, but the core analysis and interpretation reflect the author's own research and perspective.
+
 ---
 
 **Copyright (c) 2025 Shamar Davis.  
