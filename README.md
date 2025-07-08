@@ -103,7 +103,7 @@ Enter the vote percentage for Chrissy Houlahan (0-100): 58.9
 Enter the vote percentage for Greg McCauley (0-100): 41.1
 
 --- Election Results ---
-State: PA | Office/District: 6th
+State: PA | Office/District: 6th Congressional District
 Chrissy Houlahan (Democrat): 58.90%
 Greg McCauley (Republican): 41.10%
 Margin of Victory: 17.80%
