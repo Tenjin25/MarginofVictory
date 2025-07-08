@@ -190,7 +190,7 @@ The MarginofVictory calculator's rating system captures important electoral tren
 - 2018 House: Cartwright (D) +9.8 (Likely Democratic)
 - 2018 Senate: Casey (D) +6.2 (53.1-46.9) (Likely Democratic)
 - 2020 House: Cartwright (D) +3.6 (Lean Democratic)
-- 2020 President: Trump (R) +2.9 (District), Cartwright outperformed top of ticket
+- 2020 President: Trump (R) +2.9 (District), Cartwright outperformed top of the ticket
 - 2022 House: Cartwright (D) +2.4 (Lean Democratic)
 - 2022 Senate: Fetterman (D) +1.2 (Lean Democratic)
 - 2024 House: Bresnahan (R) +1.6 (Lean Republican, flip)
@@ -207,5 +207,5 @@ The MarginofVictory calculator's rating system captures important electoral tren
 | District  | 2018                                    | 2020                                    | 2022                                    | 2024                                                      |
 |-----------|------------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------------------------------|
 | **PA-01** | Casey +13.8 (D)                         | Biden +4.6 (D)                           | Fetterman +7.5 (D)                        | Casey +0.9 (D)<br>Harris +0.4 (D)<br>**Bucks flips R for the first time since 1988**    |
-| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)       | McCormick +1.8 (R)<br>Trump +1.78 (R, Northampton)<br>**Monroe flips R for the first time since 2004**        |
+| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)       | **Mackenzie +1.0 (R) (flip)** McCormick +1.8 (R)<br>Trump +1.78 (R, Northampton)<br>**Monroe flips R for the first time since 2004**        |
 | **PA-08** | Cartwright +9.8 (D)<br>Casey +6.2 (D)   | Cartwright +3.6 (D)<br>Trump +2.9 (R)    | Cartwright +2.4 (D)<br>Fetterman +1.2 (D) | **Bresnahan +1.6 (R) (flip)**<br>McCormick +4.5 (R)<br>Trump +8.5 (R)<br>**Monroe flips R for the first time since 2004** |
