@@ -164,6 +164,7 @@ The **MarginofVictory** calculator's rating system captures important electoral 
   - Ryan Mackenzie (R): 50.5%
   - Susan Wild (D): 49.5%
   - Margin: Mackenzie +1.0% (Lean Republican)
+  - Incumbent Defeated: Wild loses after three consecutive victories
 
 - **2024 Senate Results (PA-07 Districtwide):**  
   Dave McCormick (R): 49.6%  
