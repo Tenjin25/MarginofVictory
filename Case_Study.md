@@ -1,5 +1,5 @@
 /**
- * MOVCalculator v3.0+ Pennsylvania Electoral Analysis Enhancement
+ * MarginOfVictory Calculator v2.0+ Pennsylvania Electoral Analysis Enhancement
  * Demonstrates corrected historical data integration and volatility assessment
  * 
  * Educational Objective: Advanced temporal programming with data accuracy validation
@@ -162,17 +162,28 @@ The MarginofVictory calculator's rating system captures important electoral tren
 - 2024: Bucks County flips Republican for the first time since 1988 by 291 votes; Montgomery County keeps district Democratic.
 - Electoral Shift: PA-01 moved from Safe Democratic (+13.8%) to Tilt Democratic (+0.9%), a 12.9% swing toward Republicans (2018-2024)
 
-**Pennsylvania's 7th Congressional District (Lehigh Valley):**
-- 2016 President (Northampton): Trump (R) +3.78 (Lean Republican) - First Republican win since 1988
-- 2018 Senate: Casey (D) +10.1 (54.2-44.1) (Safe Democratic)
-- 2020 President (Northampton): Biden (D) +0.72 (Tilt Democratic)
-- 2022 House: Wild (D) +2.0 (Lean Democratic)
-- 2022 Senate: Fetterman (D) +4.5 (Likely Democratic)
-- 2024 President (Northampton): Trump (R) +1.78 (Lean Republican)
-- 2024 Senate: McCormick (R) +1.8 (49.6-47.8) (Lean Republican)
-- 2024: Monroe County flips Republican for the first time since 2004.
-- Electoral Shift: PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), a 12.0% swing toward Republicans (2018-2024)
+#### Pennsylvania's 7th Congressional District (Lehigh Valley):
 
+- **2016 President (Northampton):** Trump (R) +3.78 (Lean Republican) - First Republican win since 1988
+- **2018 Senate:** Casey (D) +10.1 (54.2-44.1) (Safe Democratic)
+- **2020 President (Northampton):** Biden (D) +0.72 (Tilt Democratic)
+- **2022 House:** Wild (D) +2.0 (Lean Democratic)
+- **2022 Senate:** Fetterman (D) +4.5 (Likely Democratic)
+- **2024 President (Northampton):** Trump (R) +1.78 (Lean Republican)
+- **2024 Senate (PA-07 Districtwide):** McCormick (R): 49.6%, Casey (D): 47.8% — Margin: McCormick +1.8% (Lean Republican)
+- **2024 Senate (Northampton County):** McCormick (R): 49.13%, Casey (D): 48.54% — Margin: McCormick +0.59% (Tilt Republican)
+- **2024:** Monroe County flips Republican for the first time since 2004.
+- **Electoral Shift:** PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%) districtwide, but the Northampton County core moved to Tilt Republican (+0.59%).
+
+---
+
+**Summary Table:**
+
+| District  | 2018           | 2020           | 2022                     | 2024                                                                 |
+|-----------|----------------|----------------|--------------------------|----------------------------------------------------------------------|
+| **PA-07** | Casey +10.2(D) | Biden +0.72(D) | Wild +2.0(D), Fetterman +4.5(D) | McCormick +1.8(R)\*<br>Northampton: +0.59(R)<br>Trump +1.78(R, Northampton) |
+
+\* Districtwide total; Northampton County (the swing core of PA-07): McCormick +0.59%.
 **Pennsylvania's 8th Congressional District (Scranton/Wilkes-Barre):**
 - 2018 House: Cartwright (D) +9.8 (Likely Democratic)
 - 2018 Senate: Casey (D) +6.2 (53.1-46.9) (Likely Democratic)
