@@ -228,7 +228,7 @@ PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%), representi
    ```
    java MarginOfVictory
    ```
-4. **Follow the prompts** to enter state, district, candidate names, party affiliations, incumbent party, and vote percentages.
+4. **Follow the prompts** to enter state, office or district, candidate names, party affiliations, incumbent party, and vote percentages.
 
 ---
 
