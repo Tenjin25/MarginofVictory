@@ -139,7 +139,7 @@ This case study analyzes partisan realignment and electoral trends in North Caro
 | 11        | Asheville / Mountains / Buncombe          | 41.17          | 56.04      |
 | 12        | Charlotte Urban / Uptown / Mecklenburg    | 53.67          | 44.57      |
 | 13        | Triangle Suburbs / Johnston / Wayne       | 42.79          | 55.22      |
-| 14        | Charlotte South / Ballantyne / Gaston     | 41.68          | 56.22      |
+| 14        | Charlotte South / Ballantyne / Gaston County    | 41.68          | 56.22      |
 | Statewide| —                                        | 43.04          | 54.82      |
 
 | Statewide Winner | Margin |
@@ -519,7 +519,7 @@ This case study was researched, analyzed, and written by the author, with the as
 - Districts with major partisan shifts will be highlighted in the narrative.
 - Split-ticket voting and outlier districts will be discussed.
 - Visualizations (maps, charts) may be added for clarity.
-- Cabarrus and Alamance counties, while still leaning Republican, have become more competitive in recent cycles (2020 margin: Cabarrus R+9.4, Alamance R+7.1; 2024 margin: Cabarrus R+7.7, Alamance R+4.9) as unaffiliated registration has surpassed both major parties and suburban growth accelerates due to proximity to Charlotte, the Triad, and the Triangle.
+- Cabarrus and Alamance counties, while still leaning Republican, have become more competitive in recent cycles (2020 margin: Cabarrus R+9.4, Alamance R+8.4; 2024 margin: Cabarrus R+7.7, Alamance R+8.1) as unaffiliated registration has surpassed both major parties and suburban growth accelerates due to proximity to Charlotte, the Triad, and the Triangle.
     - In 2020, Trump carried Cabarrus County 53.94% to 44.50%, but it was also the first time since 2008 that a Democrat cracked 40% there, signaling increased competitiveness.
     - In 2020, Trump carried Alamance County 53.50% to 45.10%, marking the first time since 2008 that a Democrat cracked 45% in the county (Obama received 44.94% that year).
     - In 2024, Trump carried Cabarrus County 53.03% to 45.34% (R+7.7), continuing the trend of narrowing margins.
@@ -548,7 +548,7 @@ NC-01 has historically leaned Democratic in presidential, gubernatorial, and Sen
 - **Gubernatorial:** Democratic candidates (Perdue, Cooper) have won the district, but with shrinking margins, mirroring national and statewide trends.
 - **Senate:** Democratic Senate candidates (Hagan, Ross) have performed well, but again with reduced margins compared to earlier cycles.
 - **County Flips:** Several counties in NC-01 (e.g., Gates, Martin) have flipped from Democratic to Republican in at least one major race since 2012, signaling realignment in rural eastern NC.
-- **Demographics:** The district is home to a large Black population, but that is gradually decreasing due to the black belt counties coontinuously depopulating, historically supported Democrats but has shown signs of shifting, especially among rural voters.
+- **Demographics:** The district is home to a large Black population, but that is gradually decreasing due to the black belt counties continuously depopulating, historically supported Democrats, but has shown signs of shifting, especially among rural voters.
 - **Suburban Realignment:** Cabarrus and Alamance counties, while still Republican-leaning, now have more registered unaffiliated voters than either Democrats or Republicans. Both are becoming increasingly suburban as bedroom communities for Charlotte, the Piedmont Triad, and the Research Triangle, contributing to changing political dynamics and greater competitiveness.
 - **Realignment:** The district exemplifies the broader trend of rural and working-class voters moving toward the GOP, even as urban and Black-majority precincts remain Democratic. Split-ticket voting has declined, and the district is now more competitive than a decade ago.
 
