@@ -38,8 +38,6 @@ Each election year in North Carolina's State House tells a story of shifting coa
 
 The 2010 election marked a historic Republican wave, flipping control of the NC House for the first time in over a century. Many of the districts that changed hands had already voted for John McCain in the 2008 presidential election—often by double-digit margins—yet continued to elect Democratic legislators until this pivotal year. This shift signaled the collapse of the rural Democratic coalition, as long-serving incumbents in small towns and rural counties lost seats that had been trending Republican at the federal level for years. The GOP gains in 2010 were not just a short-term reaction to the national political climate, but the beginning of a durable realignment: Republicans used their new majority to redraw legislative and congressional districts in 2011, locking in their advantage for the decade and reshaping the political landscape of North Carolina. The effects of this realignment would be felt for years, as the new maps, policy changes, and the decline of rural Democratic power fundamentally altered the balance of power in the state and set the stage for ongoing battles over redistricting, voting rights, and the direction of state government.
 
-### 2010
-
 #### 2010 Competitive/Flipped Districts (Official District Numbers)
 
 Source: [2010 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2010_North_Carolina_House_of_Representatives_election)
@@ -63,13 +61,13 @@ Source: [2010 North Carolina House of Representatives election - Wikipedia](http
 | 112      | Rutherford, Cleveland  | Bob England (D)     | Mike Hager (R)       | Yes   | 30.36% R | Safe | Republican gain from Democratic |
 | 116      | Buncombe               | Jane Whilden (D)    | Tim Moffitt (R)      | Yes   | 11.58% R | Safe | Republican gain from Democratic |
 
+```
 _Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2010_North_Carolina_House_of_Representatives_election)._ 
 
 ```
-```
 ### 2012: Obama’s Re-Election and Suburban Shifts
 The 2012 cycle saw continued GOP strength in rural areas, but Democrats held ground in urban and some suburban districts, buoyed by the presidential turnout. This election marked the second wave of the “death of the rural Democrat” in North Carolina, as many long-serving Democratic incumbents in districts that had voted for John McCain in 2008 or Mitt Romney in 2012 were defeated, further eroding the party’s rural base. These losses signaled a deepening realignment that would accelerate during the Trump era, with rural and small-town areas shifting decisively toward the GOP. At the same time, suburban battlegrounds began to emerge as key to future control of the legislature, as Democrats showed resilience in urban cores and began to make inroads in fast-growing suburban communities.
-The concurrent gubernatorial election was a landslide for Pat McCrory, and many of the same rural counties that flipped from supporting Beverly Perdue in 2008 to McCrory in 2012 (“Perdue-McCrory counties”) also saw Democratic legislative losses, further illustrating the rural realignment underway.
+The concurrent gubernatorial election was a landslide for Pat McCrory, and many of the same rural counties that flipped from supporting Beverly Perdue in 2008 to McCrory in 2012 (“Perdue-McCrory counties”) also saw Democratic legislative losses, further illustrating the rural realignment underway. With McCrory's decisive victory in the gubernatorial election, the republicans had their first trifecta since Reconstruction.
 
 #### 2012 Competitive/Flipped Districts
 Official results and district numbers are from the [2012 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2012_North_Carolina_House_of_Representatives_election).
@@ -114,11 +112,10 @@ Source: [2014 North Carolina House of Representatives election - Wikipedia](http
 | 115      | Buncombe               | Nathan Ramsey (R)  | John Ager (D)        | 1.62%  | Lean   | Yes   | Democratic gain from Republican |
 | 116      | Buncombe               | Tim Moffitt (R)    | Brian Turner (D)     | 3.82%  | Lean   | Yes   | Democratic gain from Republican |
 | 95       | Iredell                | Robert Brawley (R) | John Fraley (R)      | 100%   | Safe   | No    | Incumbent lost primary, same party |
-```
+
 ```
 Only districts where the seat changed party control (true flips) are shown, with margin and margin classification (Tossup <0.5%, Tilt <1%, Lean <5.5%, Likely <10%, Safe ≥10%).
 Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2014_North_Carolina_House_of_Representatives_election).
-```
 
 ```
 ### 2016: Trump Era Polarization and The Emergence of Obama-Trump Voters
@@ -169,11 +166,11 @@ Key points:
 | 105      | Mecklenburg            | Scott Stone (R)        | Wesley Harris (D)     | 4.58% D | Lean |
 | 119      | Haywood, Jackson, Swain| Mike Clampitt (R)      | Joe Sam Queen (D)     | 4.66% D | Lean |
 
-
-_Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Safe (≥10%)_
 ```
+_Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Safe (≥10%)_
+
 Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2018_North_Carolina_House_of_Representatives_election).
-|
+
 ```
 ### 2020: Pandemic, Polarization, and Turnout Surge
 
@@ -243,12 +240,12 @@ Source: [2024 North Carolina House of Representatives election - Wikipedia](http
 
 | District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                      |
 |----------|---------------------------|------------------------|------------------------|----------|--------------|----------------------------|
-| 24       | Wilson, Nash              | Ken Fontenot (R)       | Democratic candidate   | 2.2% D   | Lean         | Flip: Dem gain             |
-| 32       | Granville, Vance          | Frank Sossamon (R)     | Democratic candidate   | 0.5% D   | Tossup       | Flip: Dem gain             |
+| 24       | Wilson, Nash              | Ken Fontenot (R)       | Damte Pittman (D) | 2.2% D   | Lean         | Flip: Dem gain             |
+| 32       | Granville, Vance          | Frank Sossamon (R)     | Bryan Cohn (D)   | 0.5% D   | Tossup       | Flip: Dem gain             |
 | 35       | Wake                      | Terence Everitt (D)    | Mike Schietzelt (R)    | 3.2% R   | Lean         | Flip: GOP gain (open seat) |
-| 73       | Cabarrus                  | Diamond Staton-Williams (D) | Republican candidate | 6.4% R   | Likely       | Flip: GOP gain             |
-| 98       | Mecklenburg               | John Bradford (R)      | Democratic candidate   | 4.4% D   | Lean         | Flip: Dem gain             |
-| 105      | Mecklenburg               | Tricia Cotham (R)      | Republican candidate   | 0.4% R   | Tossup       | Closest GOP hold           |
+| 73       | Cabarrus                  | Diamond Staton-Williams (D) | Brian Echevarria (R) | 6.4% R   | Likely       | Flip: GOP gain             |
+| 98       | Mecklenburg               | John Bradford (R)      | Beth Gardner Helfrich (D)  | 4.4% D   | Lean         | Flip: Dem gain             |
+| 105      | Mecklenburg               | Tricia Cotham (R)      | Tricia Cotham (R)    | 0.4% R   | Tossup       | Closest GOP hold           |
 | 54       | Chatham, Randolph         | Robert Reives (D)      | Robert Reives (D)      | 4.5% D   | Lean         | Closest Dem hold           |
 | 115      | Buncombe                  | Lindsey Prather (D)    | Lindsey Prather (D)    | 2.9% D   | Lean         | Closest Dem hold (WNC)     |
 | 119      | Jackson, Swain, Transylvania | Mike Clampitt (R)   | Mike Clampitt (R)      | 5.8% R   | Lean         | Closest GOP hold (WNC)     |
@@ -263,7 +260,9 @@ The period from 2010 to 2024 marked a fundamental transformation in North Caroli
 
 Democrats, meanwhile, adapted by consolidating their strength in urban cores and fast-growing suburbs, breaking the GOP supermajority in 2018 and again in 2024. The most competitive districts shifted from rural and small-town areas in the early 2010s to the suburbs and exurbs by the 2020s, reflecting broader demographic and political trends. Many of the closest races in recent cycles were decided by just a few percentage points, underscoring the state’s status as a national battleground.
 
-Data from this period shows a dramatic decline in Democratic representation in rural North Carolina, with the party’s base shifting decisively toward urban and suburban districts. Redistricting, court interventions, and population growth in metropolitan areas all played key roles in shaping the partisan balance. The era also saw record turnout, increased polarization, and the emergence of new coalitions—such as Obama-Trump voters and suburban swing constituencies—that will continue to influence North Carolina politics.
-
 Looking ahead, the state’s political future remains closely contested. With continued demographic change, legal battles over maps, and shifting coalitions, North Carolina is likely to remain a bellwether for national trends and a focal point for both parties in the years to come.
+
+> **Transparency Note:**
+> The historical context, narrative, and most analysis in this document were written by myself. Table formatting, Python code, and some workflow automation were generated with the assistance of GitHub Copilot AI, based on the author's data and instructions. All data tables are based on official sources and have been reviewed for accuracy.
+Data from this period shows a dramatic decline in Democratic representation in rural North Carolina, with the party’s base shifting decisively toward urban and suburban districts. Redistricting, court interventions, and population growth in metropolitan areas all played key roles in shaping the partisan balance. The era also saw record turnout, increased polarization, and the emergence of new coalitions—such as Obama-Trump voters and suburban swing constituencies—that will continue to influence North Carolina politics.
 
