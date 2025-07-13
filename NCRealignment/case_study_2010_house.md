@@ -3,11 +3,10 @@
 # NC House 2010–2024 Results Case Study: Realignment, Redistricting, and the Battle for Control
 
 **Table of Contents**
+
 1. [Data Source](#data-source)
-2. [Redistricting Maps Reference](#redistricting-maps-reference)
-3. [How to Import and Analyze Results in Python](#how-to-import-and-analyze-results-in-python)
-4. [Margin Classifications](#margin-classifications)
-5. [Yearly Context and Results](#county-level-state-house-results-2010-2020-context-and-trends)
+2. [Margin Classifications](#margin-classifications)
+3. [Yearly Context and Results](#county-level-state-house-results-2010-2020-context-and-trends)
     - [2010](#2010-the-gop-wave-and-realignment-begins)
     - [2012](#2012-obamas-re-election-and-suburban-shifts)
     - [2014](#2014-midterm-consolidation-and-cracks-emerge-in-working-class-and-rural-north-carolina)
@@ -45,7 +44,7 @@ The 2010 election marked a historic Republican wave, flipping control of the NC 
 
 Source: [2010 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2010_North_Carolina_House_of_Representatives_election)
 
-```markdown
+
 | District | Counties (if mentioned) | Incumbent (Party) | Winner (Party) | Flip? | Margin | Margin Class | Notes |
 |----------|------------------------|-------------------|----------------|-------|--------|-------------|-------|
 | 3        | Craven, Pamlico        | Alice Underhill (D) | Norman Sanderson (R) | Yes   | 29.45% R | Safe | Republican gain from Democratic |
@@ -63,10 +62,11 @@ Source: [2010 North Carolina House of Representatives election - Wikipedia](http
 | 93       | Ashe, Watauga          | Cullie Tarleton (D) | Jonathan Jordan (R)  | Yes   | 2.92% R  | Lean | Republican gain from Democratic |
 | 112      | Rutherford, Cleveland  | Bob England (D)     | Mike Hager (R)       | Yes   | 30.36% R | Safe | Republican gain from Democratic |
 | 116      | Buncombe               | Jane Whilden (D)    | Tim Moffitt (R)      | Yes   | 11.58% R | Safe | Republican gain from Democratic |
-```
 
 _Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2010_North_Carolina_House_of_Representatives_election)._ 
 
+```
+```
 ### 2012: Obama’s Re-Election and Suburban Shifts
 The 2012 cycle saw continued GOP strength in rural areas, but Democrats held ground in urban and some suburban districts, buoyed by the presidential turnout. This election marked the second wave of the “death of the rural Democrat” in North Carolina, as many long-serving Democratic incumbents in districts that had voted for John McCain in 2008 or Mitt Romney in 2012 were defeated, further eroding the party’s rural base. These losses signaled a deepening realignment that would accelerate during the Trump era, with rural and small-town areas shifting decisively toward the GOP. At the same time, suburban battlegrounds began to emerge as key to future control of the legislature, as Democrats showed resilience in urban cores and began to make inroads in fast-growing suburban communities.
 The concurrent gubernatorial election was a landslide for Pat McCrory, and many of the same rural counties that flipped from supporting Beverly Perdue in 2008 to McCrory in 2012 (“Perdue-McCrory counties”) also saw Democratic legislative losses, further illustrating the rural realignment underway.
@@ -74,7 +74,7 @@ The concurrent gubernatorial election was a landslide for Pat McCrory, and many 
 #### 2012 Competitive/Flipped Districts
 Official results and district numbers are from the [2012 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2012_North_Carolina_House_of_Representatives_election).
 
-```markdown
+
 | District | Counties (if mentioned) | Incumbent (Party) | Winner (Party) | Flip? | Margin | Margin Class | Notes |
 |----------|------------------------|-------------------|---------------|-------|--------|-------------|-------|
 | 1        | Pasquotank, Camden, Currituck, Perquimans, Tyrrell | Bill Owens (D) | Bob Steinburg (R) | Yes | 12.68% R | Safe | Republican gain from Democratic |
@@ -89,13 +89,13 @@ Official results and district numbers are from the [2012 North Carolina House of
 | 118      | Madison, Yancey, Haywood (part) | Ray Rapp (D) | Michele Presnell (R) | Yes | 2.64% R | Lean | Republican gain from Democratic |
 | 115      | Buncombe | Patsy Keever (D) | Nathan Ramsey (R) | Yes | Republican gain from Democratic |
 | 118      | Madison, Yancey, Haywood (part) | Ray Rapp (D) | Michele Presnell (R) | Yes | Republican gain from Democratic |
-
+```
 Only districts where the seat changed party control (true flips) are shown.
 Counties are listed where mentioned in the Wikipedia summary.
 See the [Wikipedia article](https://en.wikipedia.org/wiki/2012_North_Carolina_House_of_Representatives_election) for full details and additional context.
+
+
 ```
-
-
 ### 2014: Midterm Consolidation and Cracks Emerge in Working Class and Rural North Carolina
 
 
@@ -105,7 +105,7 @@ The 2014 North Carolina House elections took place in a national midterm environ
 
 Source: [2014 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2014_North_Carolina_House_of_Representatives_election)
 
-```markdown
+
 | District | Counties (if mentioned) | Incumbent (Party) | Winner (Party) | Margin | Margin Class | Flip? | Notes |
 |----------|------------------------|-------------------|----------------|--------|--------------|-------|-------|
 | 2        | Person, Granville      | Winkie Wilkins (D) | Larry Yarborough (R) | 13.36% | Likely | Yes   | Republican gain from Democratic (open seat) |
@@ -115,19 +115,20 @@ Source: [2014 North Carolina House of Representatives election - Wikipedia](http
 | 116      | Buncombe               | Tim Moffitt (R)    | Brian Turner (D)     | 3.82%  | Lean   | Yes   | Democratic gain from Republican |
 | 95       | Iredell                | Robert Brawley (R) | John Fraley (R)      | 100%   | Safe   | No    | Incumbent lost primary, same party |
 ```
-
+```
 Only districts where the seat changed party control (true flips) are shown, with margin and margin classification (Tossup <0.5%, Tilt <1%, Lean <5.5%, Likely <10%, Safe ≥10%).
 Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2014_North_Carolina_House_of_Representatives_election).
+```
 
+```
 ### 2016: Trump Era Polarization and The Emergence of Obama-Trump Voters
 The 2016 election, with Donald Trump at the top of the ticket, deepened the rural-urban divide. Democrats made gains in urban and some suburban districts, while Republicans expanded their margins in much of rural North Carolina. The year also saw the emergence of a significant number of Obama-Trump voters—particularly in eastern and rural counties—who had supported Barack Obama in previous cycles but shifted to Trump and down-ballot Republicans. This realignment helped the GOP solidify control in many small-town and working-class districts, even as Democrats continued to make inroads in the fast-growing suburbs of Wake and Mecklenburg counties. The results reflected both national polarization and the unique demographic and economic shifts underway in North Carolina. Also of note, a couple of those Obama-Trump counties also voted for Pat McCrory in his narrow reelection loss over Attorney General Roy Cooper.
 
 The results reflected both national polarization and the unique demographic and economic shifts underway in North Carolina. Also of note, several of the counties that supported both Barack Obama in 2008 and Donald Trump in 2016—often referred to as "Obama-Trump counties"—also backed Republican Governor Pat McCrory in his narrow 2016 reelection loss to Attorney General Roy Cooper. Notable examples include Robeson, Bladen, Martin, and Gates counties, which flipped from Obama to Trump and from Democratic to Republican at the state legislative level, and also gave McCrory a plurality or majority in 2016, even as he lost statewide. This pattern highlights the deepening realignment in rural and southeastern North Carolina, where traditional Democratic strongholds shifted decisively toward the GOP across multiple levels of the ballot.
 
+
 ### 2016 Competitive/Flipped Districts
-```markdown
-| District | Winner | Party | Loser | Party | Margin | Margin Class |
-|----------|--------|-------|-------|-------|--------|-------------|
+
 | District | Counties | Winner | Party | Loser | Party | Margin | Margin Class |
 |----------|----------|--------|-------|-------|-------|--------|--------------|
 | 6   | Beaufort, Dare      | Beverly Boswell   | R | Warren Judge      | D | 3.7%   | Lean R |
@@ -139,9 +140,9 @@ The results reflected both national polarization and the unique demographic and 
 | 92  | Mecklenburg         | Chaz Beasley      | D | Beth Danae Caulfield | R | 8.8% | Likely D |
 | 119 | Haywood, Jackson    | Mike Clampitt     | R | Joe Sam Queen     | D | 0.8%   | Tilt R |
 
+```
 **Source:** [2016 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2016_North_Carolina_House_of_Representatives_election)
 ```
-
 ### 2018: Suburban Shifts, Democratic Gains, and Competitive/Flipped Districts
 A Democratic surge in 2018, especially in suburban districts, narrowed the GOP majority. Urban and fast-growing suburban areas saw the most competitive races and several flips. 
 
@@ -153,7 +154,7 @@ Key points:
 - Several races were decided by narrow margins, with the closest being District 103 (Rachel Hunt defeating Bill Brawley by just 0.18%).
 - The results reflected broader national trends in the 2018 midterms, with suburban voters shifting toward Democrats.
 
-```markdown
+
 | District | Counties (if mentioned) | Incumbent (Party) | Winner (Party) | Margin | Margin Class |
 |----------|------------------------|-------------------|---------------|--------|--------------|
 | 7        | Nash, Franklin, Wilson | Bobbie Richardson (D) | Lisa Stone Barnes (R) | 16.0% R | Safe |
@@ -167,12 +168,13 @@ Key points:
 | 104      | Mecklenburg            | Andy Dulin (R)         | Brandon Lofton (D)    | 3.56% D | Lean |
 | 105      | Mecklenburg            | Scott Stone (R)        | Wesley Harris (D)     | 4.58% D | Lean |
 | 119      | Haywood, Jackson, Swain| Mike Clampitt (R)      | Joe Sam Queen (D)     | 4.66% D | Lean |
-```
+
 
 _Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Safe (≥10%)_
-
+```
 Counties are listed where available from the Wikipedia summary. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2018_North_Carolina_House_of_Representatives_election).
-
+|
+```
 ### 2020: Pandemic, Polarization, and Turnout Surge
 
 The 2020 election saw record turnout and further polarization. Suburban and urban districts continued to trend Democratic, while rural areas remained solidly Republican.
@@ -181,7 +183,7 @@ The 2020 election saw record turnout and further polarization. Suburban and urba
 
 The 2020 North Carolina House of Representatives election was conducted under new court-ordered district maps, with both parties targeting suburban and swing districts. Despite high turnout and a competitive environment, only a handful of seats changed hands. Republicans maintained their majority, but Democrats made gains in a few key districts, while also losing several suburban seats they had flipped in 2018. The most notable flips included District 9 (Democratic gain), District 37 (GOP gain), and District 63 (Democratic gain). Many of the closest races were in the rapidly growing suburbs of Wake and Mecklenburg counties.
 
-```markdown
+
 | District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                      |
 |----------|---------------------------|------------------------|------------------------|----------|--------------|----------------------------|
 | 9        | Pitt                      | Perrin Jones (R)       | Brian Farkas (D)       | 2.32% D  | Lean         | Flip: Dem gain             |
@@ -197,7 +199,7 @@ The 2020 North Carolina House of Representatives election was conducted under ne
 _Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Likely (<10%), Safe (≥10%)_
 
 For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2020_North_Carolina_House_of_Representatives_election).
-
+```
 ### 2022: Redistricting, Suburban Realignment, and a Status Quo Election
 
 The 2022 North Carolina House of Representatives election was the first held under new court-ordered maps, with both parties targeting a handful of competitive suburban and exurban districts. Despite a highly polarized environment and millions spent on key races, the overall partisan balance changed little: Republicans gained a net of 2 seats, regaining a supermajority, but most incumbents held on. The most competitive races were again in the suburbs of Wake, Mecklenburg, and the fast-growing exurbs. Only a few seats flipped, and most margins were outside the "tossup" range, reflecting entrenched partisan divides and the effects of redistricting.
@@ -208,7 +210,7 @@ The 2022 North Carolina House of Representatives election was the first held und
 
 Source: [2022 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2022_North_Carolina_House_of_Representatives_election)
 
-```markdown
+
 | District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                      |
 |----------|---------------------------|------------------------|------------------------|----------|--------------|----------------------------|
 | 73       | Cabarrus                  | Kristin Baker (R)      | Diamond Staton-Williams (D) | 0.36% D  | Tossup        | Flip: Dem gain             |
@@ -226,19 +228,19 @@ Source: [2022 North Carolina House of Representatives election - Wikipedia](http
 _Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Likely (<10%), Safe (≥10%)_
 
 For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2022_North_Carolina_House_of_Representatives_election).
-
+```
 ### 2024: Democrats Break the Supermajority, Suburban Shifts Continue
 
 
 
-The 2024 North Carolina House of Representatives election saw Democrats gain one seat, breaking the GOP supermajority. This election was conducted under yet another new set of legislative maps, following the Republican Party's 5-2 majority win on the North Carolina Supreme Court in 2022, which allowed the GOP to redraw the state's districts once again. The most competitive and flipped districts were again concentrated in the fast-growing suburbs and exurbs, with several seats changing hands by narrow margins. Notably, the 24th district voted for Donald Trump by around 2 points, but Governor Stein's coattails from his nearly 15-point victory over Mark Robinson in the concurrent gubernatorial election also likely played a role in Democratic victories in the other districts. Notable flips included District 24 (Wilson/Nash, Dem gain), District 32 (Granville/Vance, Dem gain), District 35 (Wake, GOP gain), District 73 (Cabarrus, GOP gain), and District 98 (Mecklenburg, Dem gain). Most other close races were in the 2–5% margin range, reflecting continued polarization and the impact of redistricting.
+The 2024 North Carolina House of Representatives election saw Democrats gain one seat, breaking the GOP supermajority. This election was conducted under yet another new set of legislative maps, following the Republican Party's 5-2 majority win on the North Carolina Supreme Court in 2022, which allowed the GOP to redraw the state's districts once again. The most competitive and flipped districts were again concentrated in the fast-growing suburbs and exurbs, with several seats changing hands by narrow margins. Notably, the 24th district voted for Donald Trump by around 2 points. Still, Governor Stein's coattails from his nearly 15-point victory over Mark Robinson in the concurrent gubernatorial election also likely played a role in Democratic victories in the other districts. Notable flips included District 24 (Wilson/Nash, Dem gain), District 32 (Granville/Vance, Dem gain), District 35 (Wake, GOP gain), District 73 (Cabarrus, GOP gain), and District 98 (Mecklenburg, Dem gain). Most other close races were in the 2–5% margin range, reflecting continued polarization and the impact of redistricting.
 
 
 #### 2024 Competitive/Flipped Districts
 
 Source: [2024 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2024_North_Carolina_House_of_Representatives_election)
 
-```markdown
+
 | District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                      |
 |----------|---------------------------|------------------------|------------------------|----------|--------------|----------------------------|
 | 24       | Wilson, Nash              | Ken Fontenot (R)       | Democratic candidate   | 2.2% D   | Lean         | Flip: Dem gain             |
@@ -250,12 +252,10 @@ Source: [2024 North Carolina House of Representatives election - Wikipedia](http
 | 54       | Chatham, Randolph         | Robert Reives (D)      | Robert Reives (D)      | 4.5% D   | Lean         | Closest Dem hold           |
 | 115      | Buncombe                  | Lindsey Prather (D)    | Lindsey Prather (D)    | 2.9% D   | Lean         | Closest Dem hold (WNC)     |
 | 119      | Jackson, Swain, Transylvania | Mike Clampitt (R)   | Mike Clampitt (R)      | 5.8% R   | Lean         | Closest GOP hold (WNC)     |
+
 ```
-
 _Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Likely (<10%), Safe (≥10%)_
-
-
----
+```
 
 ## Conclusion: The Legacy of the 2010–2024 Era in the NC House
 
