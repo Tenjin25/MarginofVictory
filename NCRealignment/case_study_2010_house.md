@@ -74,6 +74,7 @@ The concurrent gubernatorial election was a landslide for Pat McCrory, and many 
 #### 2012 Competitive/Flipped Districts
 Official results and district numbers are from the [2012 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2012_North_Carolina_House_of_Representatives_election).
 
+```markdown
 | District | Counties (if mentioned) | Incumbent (Party) | Winner (Party) | Flip? | Margin | Margin Class | Notes |
 |----------|------------------------|-------------------|---------------|-------|--------|-------------|-------|
 | 1        | Pasquotank, Camden, Currituck, Perquimans, Tyrrell | Bill Owens (D) | Bob Steinburg (R) | Yes | 12.68% R | Safe | Republican gain from Democratic |
@@ -92,7 +93,7 @@ Official results and district numbers are from the [2012 North Carolina House of
 Only districts where the seat changed party control (true flips) are shown.
 Counties are listed where mentioned in the Wikipedia summary.
 See the [Wikipedia article](https://en.wikipedia.org/wiki/2012_North_Carolina_House_of_Representatives_election) for full details and additional context.
-|
+```
 
 
 ### 2014: Midterm Consolidation and Cracks Emerge in Working Class and Rural North Carolina
@@ -124,7 +125,7 @@ The 2016 election, with Donald Trump at the top of the ticket, deepened the rura
 The results reflected both national polarization and the unique demographic and economic shifts underway in North Carolina. Also of note, several of the counties that supported both Barack Obama in 2008 and Donald Trump in 2016—often referred to as "Obama-Trump counties"—also backed Republican Governor Pat McCrory in his narrow 2016 reelection loss to Attorney General Roy Cooper. Notable examples include Robeson, Bladen, Martin, and Gates counties, which flipped from Obama to Trump and from Democratic to Republican at the state legislative level, and also gave McCrory a plurality or majority in 2016, even as he lost statewide. This pattern highlights the deepening realignment in rural and southeastern North Carolina, where traditional Democratic strongholds shifted decisively toward the GOP across multiple levels of the ballot.
 
 ### 2016 Competitive/Flipped Districts
-
+```markdown
 | District | Winner | Party | Loser | Party | Margin | Margin Class |
 |----------|--------|-------|-------|-------|--------|-------------|
 | District | Counties | Winner | Party | Loser | Party | Margin | Margin Class |
@@ -139,7 +140,7 @@ The results reflected both national polarization and the unique demographic and 
 | 119 | Haywood, Jackson    | Mike Clampitt     | R | Joe Sam Queen     | D | 0.8%   | Tilt R |
 
 **Source:** [2016 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2016_North_Carolina_House_of_Representatives_election)
-
+```
 
 ### 2018: Suburban Shifts, Democratic Gains, and Competitive/Flipped Districts
 A Democratic surge in 2018, especially in suburban districts, narrowed the GOP majority. Urban and fast-growing suburban areas saw the most competitive races and several flips. 
