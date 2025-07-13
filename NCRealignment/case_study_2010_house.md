@@ -204,9 +204,9 @@ The 2022 North Carolina House of Representatives election was the first held und
 Source: [2022 North Carolina House of Representatives election - Wikipedia](https://en.wikipedia.org/wiki/2022_North_Carolina_House_of_Representatives_election)
 
 
-| District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                      |
+| District | Counties (if known)        | Incumbent (Party)      | Winner (Party)         | Margin   | Margin Class | Notes                     |
 |----------|---------------------------|------------------------|------------------------|----------|--------------|----------------------------|
-| 73       | Cabarrus                  | Brian Echevarria (R)    | Diamond Staton-Williams (D) | 0.36% D  | Tossup |Open Seat Flip: Dem gain    |
+| 73       | Cabarrus                  | Brian Echevarria (R)    | Diamond Staton-Williams (D) | 0.36% D  | Tossup |New Seat, Flip: Dem gain    |
 | 54       | Chatham, Randolph         | Robert Reives (D)      | Robert Reives (D)      | 2.1% D   | Lean         | Closest Dem hold           |
 | 98       | Mecklenburg               | John Bradford (R)      | John Bradford (R)      | 2.7% R   | Lean         | Closest GOP hold           |
 | 103      | Mecklenburg               | Laura Budd (D)         | Laura Budd (D)         | 3.1% D   | Lean         | Closest Dem hold           |
