@@ -254,13 +254,24 @@ Source: [2024 North Carolina House of Representatives election - Wikipedia](http
 _Margin Classifications: Tossup (<0.5%), Lean (<5.5%), Likely (<10%), Safe (≥10%)_
 ```
 
+---
+
 ## Conclusion: The Legacy of the 2010–2024 Era in the NC House
+
 
 The period from 2010 to 2024 marked a fundamental transformation in North Carolina’s political landscape. Republicans gained control of the NC House for the first time in over a century in 2010, flipping 16 seats and ending the era of rural Democratic dominance. Over the next decade and a half, the GOP leveraged its majorities to redraw legislative and congressional maps multiple times, often following court battles and shifting legal precedents. This redistricting power helped lock in Republican advantages, but also fueled ongoing legal and political conflict.
 
 Democrats, meanwhile, adapted by consolidating their strength in urban cores and fast-growing suburbs, breaking the GOP supermajority in 2018 and again in 2024. The most competitive districts shifted from rural and small-town areas in the early 2010s to the suburbs and exurbs by the 2020s, reflecting broader demographic and political trends. Many of the closest races in recent cycles were decided by just a few percentage points, underscoring the state’s status as a national battleground.
 
-Looking ahead, the state’s political future remains closely contested. With continued demographic change, legal battles over maps, and shifting coalitions, North Carolina is likely to remain a bellwether for national trends and a focal point for both parties in the years to come.
+Throughout this period, Democratic representation in rural North Carolina declined sharply, with the party’s base shifting decisively toward urban and suburban districts. Redistricting, court interventions, and population growth in metropolitan areas all played key roles in shaping the partisan balance. The era also saw record turnout, increased polarization, and the emergence of new coalitions—such as Obama-Trump voters and suburban swing constituencies—that will continue to influence North Carolina politics.
+
+**Coalition Changes Since the Trump Era:**
+
+
+The Trump era accelerated a dramatic realignment of party coalitions in North Carolina. The Republican Party consolidated its dominance in rural, small-town, and working-class white communities, while also making inroads with some nonwhite rural voters, especially in places like Robeson County. Notably, the Lowery seat (HD-47) in Robeson County backed Trump by 23 points in 2024, underscoring just how deep the realignment has been in southeastern North Carolina. Neighboring HD-48 (Hoke and Scotland Counties) backed Harris by just 0.9 points in 2024, and Scotland County itself backed Trump by 7 points, further illustrating the shifting partisan landscape in the region.  Meanwhile, the Democratic Party’s base shifted even more decisively toward urban cores, racially diverse suburbs, and highly educated, professional-class communities. The incumbent in HD-48, Garland Pierce (D-Wagram), only won by 3.84 points in 2024, down from a 7.04-point margin in 2022, highlighting the increasing competitiveness of the district for Democrats. Suburban areas that were once reliably Republican became increasingly competitive or even Democratic-leaning, especially in Wake and Mecklenburg counties. The emergence of "Obama-Trump" and "split-ticket" voters in rural and southeastern counties, alongside a new generation of suburban swing voters, has made North Carolina’s political landscape more dynamic and unpredictable. These coalition changes have reshaped not only electoral outcomes but also the policy priorities and campaign strategies of both parties, with each now relying on a very different geographic and demographic base than in previous decades. The result is a state where both parties must continually adapt to shifting coalitions and where the balance of power remains closely contested.
+
+Looking ahead, North Carolina’s political future remains highly competitive. With continued demographic change, legal battles over maps, and evolving coalitions, the state is likely to remain a bellwether for national trends and a focal point for both parties in the years to come.
+
 
 > **Transparency Note:**
 > The historical context, narrative, and most analysis in this document were written by myself. Table formatting, Python code, and some workflow automation were generated with the assistance of GitHub Copilot AI, based on the author's data and instructions. All data tables are based on official sources and have been reviewed for accuracy.
