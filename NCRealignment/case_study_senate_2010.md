@@ -144,8 +144,8 @@ The 2022 North Carolina Senate election was shaped by new district lines and ong
 
 ### 2022 Competitive/Flipped Districts (Official District Numbers)
 
-| District | Counties | Incumbent (Party) | Winner (Party) | Margin | Margin Class | Notes |
-|----------|----------|-------------------|----------------|--------|-------------|-------|
+| District | Counties | Incumbent (Party) | Winner (Party) | Margin | Margin Class | Notes |2020 Pres Margin | 2024 Pres Margin |
+|----------|----------|-------------------|----------------|--------|-------------|-------|-------|-------|
 | 3  | Warren, Halifax, Northampton, Bertie, Gates, Martin, Hertford, Camden, Currituck, Tyrell | Ernestine Bazemore (D) | Bobby Hanig (R) | 5.06% R | Lean | Republican gain from Democratic | Biden +3.7% D | Trump +3.3% R |
 | 5  | Edgecombe, Pitt | Don Davis (D, open) | Kandie Smith (D) | 4.46% D | Lean | Democratic hold, open seat | Biden +13.4% D | Harris +9.6% D |
 | 7  | New Hanover | Michael Lee (R) | Michael Lee (R) | 1.94% R | Lean | Republican hold, highly competitive | Biden +0.2% D | Trump +0.9% R |
