@@ -239,7 +239,7 @@ Source: [2024 North Carolina House of Representatives election - Wikipedia](http
 | 24       | Wilson, Nash              | Ken Fontenot (R)       | Damte Pittman (D) | 2.2% D   | Lean         | Flip: Dem gain             |
 | 32       | Granville, Vance          | Frank Sossamon (R)     | Bryan Cohn (D)   | 0.5% D   | Tossup       | Flip: Dem gain             |
 | 35       | Wake                      | Terence Everitt (D)    | Mike Schietzelt (R)    | 3.2% R   | Lean         | Flip: GOP gain (open seat) |
-| 73       | Cabarrus                  | Diamond Staton-Williams (D) | Brian Echevarria (R) | 6.4% R   | Likely       | Flip: GOP gain             |
+| 82       | Cabarrus                  | Sabrina Berry (D) | Brian Echevarria (R) | 8.7% R   | Likely       | Flip: (New Seat) GOP gain             |
 | 98       | Mecklenburg               | John Bradford (R)      | Beth Gardner Helfrich (D)  | 4.4% D   | Lean         | Flip: Dem gain             |
 | 105      | Mecklenburg               | Tricia Cotham (R)      | Tricia Cotham (R)    | 0.4% R   | Tossup       | Closest GOP hold           |
 | 54       | Chatham, Randolph         | Robert Reives (D)      | Robert Reives (D)      | 4.5% D   | Lean         | Closest Dem hold           |
