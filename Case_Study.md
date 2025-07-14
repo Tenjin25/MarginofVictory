@@ -203,7 +203,7 @@ PA-07 moved from Safe Democratic (+10.2%) to Lean Republican (+1.8%) districtwid
 | District  | 2018                                    | 2020                                    | 2022                                    | 2024                                                      |
 |-----------|------------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------------------------------|
 | **PA-01** | Casey +13.8 (D)                         | Biden +4.6 (D)                           | —                                        | Casey +0.9 (D)<br>Harris +0.4 (D)<br>**Bucks flips R**    |
-| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)      | McCormick +1.8 (R)\*<br>Northampton: +0.59 (R)            |
+| **PA-07** | Casey +10.2 (D)                         | Biden +0.72 (D, Northampton)             | Wild +2.0 (D)<br>Fetterman +4.5 (D)      | **Mackenzie +1.0 (R) (flip)**<br>McCormick +1.8 (R)\*<br>Northampton: +0.59 (R)            |
 | **PA-08** | Cartwright +9.8 (D)<br>Casey +6.2 (D)   | Cartwright +3.6 (D)<br>Trump +2.9 (R)    | Cartwright +2.4 (D)<br>Fetterman +1.2 (D) | **Bresnahan +1.6 (R) (flip)**<br>McCormick +4.5 (R)<br>Trump ~+8.5 (R)              |
 
 \* Districtwide total. Northampton County (the swing core of PA-07) was McCormick +0.59%.
