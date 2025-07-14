@@ -270,6 +270,7 @@ Looking ahead, North Carolina’s political future remains highly competitive. W
 
 
 > **Transparency Note:**
-> The historical context, narrative, and most analysis in this document were written by myself. Table formatting, Python code, and some workflow automation were generated with the assistance of GitHub Copilot AI, based on the author's data and instructions. All data tables are based on official sources and have been reviewed for accuracy.
+> The historical context, narrative, and most analysis in this document were written by me. Table formatting, Python code, and some workflow automation were generated with the assistance of GitHub Copilot AI, based on the author's data and instructions. All data tables are based on official sources and have been reviewed for accuracy.
 Data from this period shows a dramatic decline in Democratic representation in rural North Carolina, with the party’s base shifting decisively toward urban and suburban districts. Redistricting, court interventions, and population growth in metropolitan areas all played key roles in shaping the partisan balance. The era also saw record turnout, increased polarization, and the emergence of new coalitions—such as Obama-Trump voters and suburban swing constituencies—that will continue to influence North Carolina politics.
 
+© Shamar Davis 2025. All rights reserved.
