@@ -73,7 +73,7 @@ The 2012 North Carolina Senate election took place in the context of President O
 ### 2012 Competitive/Flipped Districts (Official District Numbers)
 
 | District | Counties | Incumbent (Party) | Winner (Party) | Margin | Margin Class | Notes |
-|----------|----------|-------------------|----------------|--------|-------------|-------| 2020 Pres Margin | 2024 Pres Margin |
+|----------|----------|-------------------|----------------|--------|-------------|-------|
 | 1  | Camden, Chowan, Currituck, Dare, Gates, Hertford, Pasquotank, Perquimans, Tyrrell, Washington | Stan White (D) | Bill Cook (R) | 0.02% R | Tossup | Republican gain from Democratic |
 | 18 | Franklin, part of Wake | Doug Berger (D) | Chad Barefoot (R) | 11.8% R | Safe | Republican gain from Democratic |
 | 27 | Guilford | Don Vaughan (D, open) | Trudy Wade (R) | 15.2% R | Safe | Republican gain from Democratic |
