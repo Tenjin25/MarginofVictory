@@ -149,12 +149,12 @@ The 2022 North Carolina Senate election was shaped by new district lines and ong
 | 3  | Warren, Halifax, Northampton, Bertie, Gates, Martin, Hertford, Camden, Currituck, Tyrell | Ernestine Bazemore (D) | Bobby Hanig (R) | 5.06% R | Lean | Republican gain from Democratic | Biden +3.7% D | Trump +3.3% R |
 | 5  | Edgecombe, Pitt | Don Davis (D, open) | Kandie Smith (D) | 4.46% D | Lean | Democratic hold, open seat | Biden +13.4% D | Harris +9.6% D |
 | 7  | New Hanover | Michael Lee (R) | Michael Lee (R) | 1.94% R | Lean | Republican hold, highly competitive | Biden +0.2% D | Trump +0.9% R |
-| 17 | Wake | Sydney Batch (D) | Sydney Batch (D) | 5.86% D | Likely | Democratic hold, highly competitive; Sydney Batch reelected, future Minority Leader | Biden +5.1% D | Harris +7.1% D |
+| 17 | Wake | Sydney Batch (D) | Sydney Batch (D) | 5.86% D | Likely | Democratic hold, highly competitive; Sydney Batch reelected, future Minority Leader in 2024 | Biden +5.1% D | Harris +7.1% D |
 | 18 | Granville, Wake | Sarah Crawford (D, open) | Mary Wills Bode (D) | 5.39% D | Lean | Democratic hold, open seat | Biden +3.6% D | Harris +3.6% D |
 | 19 | Cumberland | Kirk deViere (D, open) | Val Applewhite (D) | 5.4% D | Lean | Democratic hold, open seat | Biden +9.9% D | Harris +6.9% D |
 | 21 | Moore, Cumberland | Tom McInnis (R) | Tom McInnis (R) | 9.26% R | Likely | Republican hold, new district | Trump +1.6% R | Trump +5.9% R |
 | 27 | Guilford | Michael Garrett (D) | Michael Garrett (D) | 9% D | Likely | Democratic hold, highly competitive | Biden +14.0% D | Harris +13.9% D |
-| 42 | Mecklenburg | Jeff Jackson (D, open) | Rachel Hunt (D) | 9.92% D | Likely | Democratic hold, open seat; Rachel Hunt elected Lt. Governor | Biden +15.1% D | Harris +14.3% D |
+| 42 | Mecklenburg | Jeff Jackson (D, open) | Rachel Hunt (D) | 9.92% D | Likely | Democratic hold, open seat; Rachel Hunt elected Lt. Governor in 2024 | Biden +15.1% D | Harris +14.3% D |
 
 _Margins are approximate, based on Wikipedia and official results. Only districts where the seat changed party control (true flips) or were highly competitive are shown. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2022_North_Carolina_Senate_election)._
 
