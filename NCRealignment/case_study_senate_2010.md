@@ -117,7 +117,7 @@ The 2018 North Carolina Senate election marked a turning point as Democrats made
 | 9  | New Hanover, Pender | Michael Lee (R) | Harper Peterson (D) | 0.27% D | Tossup | Democratic gain from Republican |
 | 17 | Wake | Tamara Barringer (R) | Sam Searcy (D) | 4.25% D | Lean | Democratic gain from Republican |
 | 19 | Cumberland | Wesley Meredith (R) | Kirk deViere (D) | 0.74% D | Tossup | Democratic gain from Republican |
-| 27 | Guilford | Trudy Wade (R) | Michael Garrett (D) | 1.04% D | Tossup | Democratic gain from Republican |
+| 27 | Guilford | Trudy Wade (R) | Michael Garrett (D) | 1.04% D | Lean | Democratic gain from Republican |
 | 41 | Mecklenburg | Jeff Tarte (R) | Natasha Marcus (D) | 13.7% D | Safe | Democratic gain from Republican |
 
 _Margins are approximate, based on Wikipedia and official results. Only districts where the seat changed party control (true flips) are shown. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2018_North_Carolina_Senate_election)._ 
@@ -135,12 +135,12 @@ The 2020 North Carolina Senate election unfolded against the backdrop of the COV
 | 18 | Franklin, part of Wake | John Alexander (R) | Sarah Crawford (D) | 7.68% D | Likely | Democratic gain from Republican |
 | 39 | Mecklenburg | Rob Bryan (R, open) | DeAndrea Salvador (D) | 24.36% D | Safe | Democratic gain from Republican |
 
-_Margins are approximate, based on Wikipedia and official results. Only districts where the seat changed party control (true flips) are shown. For full details and additional context, see the [Wikipedia article](https://en.wikipedia.org/wiki/2020_North_Carolina_Senate_election)._
+_Margins are approximate, based on Wikipedia and official results. Only districts where the seat changed party control (true flips) are shown. For full details and additional context, please take a look at the [Wikipedia article](https://en.wikipedia.org/wiki/2020_North_Carolina_Senate_election)._
 
 
 ## 2022: Redistricting, Suburban Realignment, and a Status Quo Election
 
-The 2022 North Carolina Senate election was shaped by new district lines and ongoing demographic changes. While neither party gained or lost overall control, several districts became highly competitive, reflecting the state’s shifting population and the increasing political importance of suburban and exurban areas. The results underscored a period of relative partisan stability, but also highlighted the volatility and potential for future change in key battleground districts. Notably, the 3rd district voted for Trump in 2024, underscoring the region's Republican trend despite local Democratic strength in some cycles.
+The 2022 North Carolina Senate election was shaped by new district lines and ongoing demographic changes. While neither party gained nor lost overall control, several districts became highly competitive, reflecting the state’s shifting population and the increasing political importance of suburban and exurban areas. The results underscored a period of relative partisan stability, but also highlighted the volatility and potential for future change in key battleground districts. Notably, the 3rd district voted for Trump in 2024, underscoring the region's Republican trend despite local Democratic strength in some cycles.
 
 ### 2022 Competitive/Flipped Districts (Official District Numbers)
 
