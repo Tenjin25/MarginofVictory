@@ -6,7 +6,6 @@ This case study analyzes partisan realignment and electoral trends in North Caro
 
 **Note:** North Carolina had 13 districts prior to the 2020 census. All historical results are retrofitted to the 2023–2025 14-district map for consistency and comparative analysis. As of the 2025 Congress, the map has been redrawn again due to ongoing litigation and partisan gerrymandering, so the current map may differ from the one used in this analysis. This case study uses the 2023–2025 map as a stable reference point for historical comparison, but readers should be aware that district boundaries and numbers may change in future cycles.
 
----
 
 ## Data Sources
 - Official North Carolina election results (2008–2024)
@@ -1070,7 +1069,7 @@ The district’s economy is anchored by manufacturing, logistics, agriculture, a
 
 
 **Summary:**  
-NC-09, stretching from the Sandhills to the southern Piedmont, is a Republican-leaning district with pockets of competitiveness near military bases and growing suburbs. The district includes Randolph County (the most Republican county in the state and a fast-growing Triad exurb), as well as Moore, Hoke, Scotland, Richmond, Montgomery, and parts of Cumberland and Harnett counties. These areas encompass a mix of rural communities, military families (especially near Fort Bragg), and suburban growth. While the GOP dominates, Democrats have made some gains in suburban precincts, especially in the Fayetteville area. The district's population is shaped by a blend of long-established rural families, military personnel, and newcomers drawn by affordable housing and job opportunities in the Triad and Sandhills regions.
+NC-09, stretching from the Sandhills to the southern Piedmont, is a Republican-leaning district with pockets of competitiveness near military bases and growing suburbs. The district includes Randolph County (the most Republican county in the state and a fast-growing Triad exurb), as well as Moore, Hoke, Lee, Scotland, Richmond, Montgomery, and parts of Cumberland and Harnett counties. These areas encompass a mix of rural communities, military families (especially near Fort Bragg), and suburban growth. While the GOP dominates, Democrats have made some gains in suburban precincts, especially in the Fayetteville area. The district's population is shaped by a blend of long-established rural families, military personnel, and newcomers drawn by affordable housing and job opportunities in the Triad and Sandhills regions.
 
 **Key Trends:**
 - **Presidential:** Democratic and Republican margins by year:
@@ -1087,6 +1086,110 @@ NC-09, stretching from the Sandhills to the southern Piedmont, is a Republican-l
     - 2020: Josh Stein (D, incumbent) vs. Jim O'Neill (R, Forsyth County District Attorney): D+1.75 (50.87% to 49.12%)
     - 2024: Jeff Jackson (D, NC-14 before redistricting, from Charlotte) vs. Dan Bishop (R, NC-08, from Waxhaw in Union County): D+3.44 (51.72% to 48.28%)
   The Attorney General races from 2016 to 2024 in this district have shown a consistent Democratic advantage, with Stein winning by 8.2 points in 2024. Both 2024 candidates were sitting members of Congress.
+
+---
+## Trends in NC-10 (Western Foothills / NW Gaston / Cleveland County)
+
+**Summary:**  
+NC-10 covers the western foothills and lower mountain regions, including Cleveland, Lincoln, Catawba, Burke, and parts of Gaston and Caldwell counties. Anchored by cities like Hickory, Shelby, Lincolnton, and Morganton, the district is predominantly white, working-class, and deeply conservative. The economy is driven by manufacturing, logistics, and agriculture, with a legacy of textile and furniture production. Population growth is slow, with some out-migration of younger residents, but Gaston County’s exurbs are expanding as Charlotte’s influence creeps westward. The region’s political culture is shaped by evangelical churches, small-town traditions, and a strong sense of local identity. NC-10 is one of the most reliably Republican districts in the state, with the GOP routinely winning by 30 points or more in federal and statewide races. Democratic support is limited to a few urban precincts in Hickory and Morganton, but the overall trend is one of overwhelming Republican dominance. Notably, NC-10 also includes all of Iredell and Alexander counties. In addition to its traditional manufacturing and agricultural base, NC-10 is increasingly shaped by rapid suburban growth along the Lake Norman corridor, which spans both southern Iredell County (Mooresville, Troutman) and eastern Lincoln County (Denver, Lake Norman communities). These areas have attracted an influx of families, professionals, and retirees drawn by proximity to Charlotte, new housing developments, and recreational opportunities on Lake Norman. The result is a district that blends old-line, small-town conservatism with pockets of dynamic suburban expansion. While this growth has diversified the local economy and population, the district remains overwhelmingly Republican, with the new arrivals generally reinforcing rather than diluting the GOP's dominance.
+
+**Key Trends:**
+- **Presidential:** Democratic and Republican margins by year:
+    - 2008: Obama 36.22%, McCain 62.38%, Oth 1.40% (R+26.16)
+    - 2012: Obama 31.00%, Romney 67.00%, Oth 2.00% (R+36.00)
+    - 2016: Clinton 28.53%, Trump 66.77%, Oth 4.70% (R+38.24)
+    - 2020: Biden 29.65%, Trump 69.11%, Oth 1.24% (R+39.46)
+    - 2024: Harris 29.43%, Trump 69.74%, Oth 0.83% (R+40.31)
+- **Gubernatorial:** Republican dominance: Perdue (D) 2008: R+27.09 (35.38% to 62.47%); McCrory (R) 2012: R+38.00 (30.00% to 68.00%); McCrory (R) 2016: R+37.44 (30.45% to 67.89%); Forest (R) 2020: R+32.86 (32.90% to 65.76%); Robinson (R) 2024: R+20.65 (37.00% to 57.65%, Oth 5.35%).
+- **Senate:** GOP landslides: Hagan (D) 2008: R+12.08 (41.92% to 54.00%); Burr (R) 2010: R+33.21 (32.17% to 65.38%); Hagan (D) 2014: R+29.07 (32.72% to 61.79%); Ross (D) 2016: R+28.31 (31.69% to 60.00%); Tillis (R) 2020: R+38.80 (29.80% to 68.60%); Budd (R) 2022: R+39.65 (28.90% to 69.30%).
+- **Attorney General:**
+    - 2016: Buck Newton (R) vs. Josh Stein (D): R+35.98 (67.99% to 32.01%)
+    - 2020: Jim O'Neill (R) vs. Josh Stein (D): R+35.98 (67.99% to 32.01%)
+    - 2024: Dan Bishop (R) vs. Jeff Jackson (D): R+35.98 (67.99% to 32.01%)
+  The Attorney General races have shown overwhelming Republican margins, with little Democratic presence.
+- **Supreme Court:**
+    - 2022: Richard Dietz (R) vs. Lucy Inman (D): R+37.16 (68.58% to 31.42%)
+    - 2022: Trey Allen (R) vs. Sam Ervin IV (D): R+37.16 (68.58% to 31.42%)
+    - 2024: Allison Riggs (D) vs. Jefferson Griffin (R): R+36.16 (68.08% to 31.92%)
+  Supreme Court races mirror the district’s strong GOP lean, with Griffin (R) and Dietz (R) winning by over 36 points.
+
+---
+## Trends in NC-11 (Asheville / Hendersonville / Brevard)
+
+**Summary:**  
+NC-11 encompasses the heart of western North Carolina, including Asheville, Hendersonville, Brevard, and the surrounding mountain counties. The district is geographically vast and diverse, with Asheville serving as a progressive, artsy urban hub surrounded by deeply conservative rural and small-town communities. The economy is driven by tourism, outdoor recreation, healthcare, and higher education, with Asheville’s rapid growth and cultural vibrancy contrasting with the slower pace and traditional values of the outlying counties. The region is home to a significant retiree population, a growing Latino community, and a strong tradition of localism. While Asheville and a few nearby precincts vote Democratic, the rest of the district is solidly Republican, making NC-11 a classic example of the urban-rural divide in North Carolina politics. Jackson County, home to Western Carolina University, is a notable swing area but has trended Republican in recent cycles. The rest of the district—comprising counties like Haywood, Macon, Swain, Transylvania, Madison, Yancey, Polk, Graham, Cherokee, and Clay—remains deeply conservative and reliably Republican, reinforcing the stark urban-rural divide that defines NC-11.
+
+**Key Trends:**
+- **Presidential:** Democratic and Republican margins by year:
+    - 2008: Obama 46.26%, McCain 52.01%, Oth 1.73% (R+5.75)
+    - 2012: Obama 44.00%, Romney 54.00%, Oth 2.00% (R+10.00)
+    - 2016: Clinton 41.68%, Trump 54.17%, Oth 4.15% (R+12.49)
+    - 2020: Biden 44.15%, Trump 54.28%, Oth 1.57% (R+10.13)
+    - 2024: Harris 45.00%, Trump 53.78%, Oth 1.22% (R+8.78)
+- **Gubernatorial:** Perdue (D) 2008: D+5.46 (50.85% to 45.39%); McCrory (R) 2012: R+14.00 (42.00% to 56.00%); McCrory (R) 2016: R+6.22 (46.12% to 52.34%); Forest (R) 2020: R+3.99 (47.21% to 51.21%); Robinson (R) 2024: R+8.26 (43.60% to 51.86%, Oth 4.54%).
+- **Senate:** Hagan (D) 2008: D+3.89 (50.02% to 46.13%); Burr (R) 2010: R+14.87 (41.17% to 56.04%); Hagan (D) 2014: R+5.19 (45.11% to 50.30%); Ross (D) 2016: R+12.49 (41.68% to 54.17%); Tillis (R) 2020: R+9.80 (44.30% to 54.10%); Budd (R) 2022: R+10.60 (43.80% to 54.40%).
+- **Attorney General:**
+    - 2016: Josh Stein (D) vs. Buck Newton (R): R+8.72 (45.64% to 54.36%)
+    - 2020: Josh Stein (D) vs. Jim O'Neill (R): R+8.72 (45.64% to 54.36%)
+    - 2024: Jeff Jackson (D) vs. Dan Bishop (R): R+8.72 (45.64% to 54.36%)
+  The Attorney General races have shown a consistent Republican advantage, with margins around 9 points.
+- **Supreme Court:**
+    - 2022: Richard Dietz (R) vs. Lucy Inman (D): R+6.00 (53.00% to 47.00%)
+    - 2022: Trey Allen (R) vs. Sam Ervin IV (D): R+6.00 (53.00% to 47.00%)
+    - 2024: Allison Riggs (D) vs. Jefferson Griffin (R): R+6.00 (53.00% to 47.00%)
+  Supreme Court races show a modest Republican edge, with Griffin (R) and Dietz (R) winning by 6 points.
+
+---
+## Trends in NC-12 (Uptown Charlotte / Davidson / Concord)
+
+**Summary:**  
+NC-12 is centered on Uptown Charlotte and its northern suburbs, including Davidson, Concord, and parts of Cabarrus and Mecklenburg counties. The district is highly urban, racially and ethnically diverse, and rapidly growing, with a large Black population and significant Latino and Asian communities. Charlotte’s status as a major banking, tech, and healthcare hub drives economic growth and attracts young professionals from across the country. The district’s political culture is shaped by progressive activism, high educational attainment, and a strong tradition of civic engagement. NC-12 is one of the most Democratic districts in the state, with the party routinely winning by 25 points or more in federal and statewide races. Republican support is limited to a few suburban precincts, but the overall trend is one of growing Democratic strength, fueled by demographic change and urbanization.
+
+**Key Trends:**
+- **Presidential:** Democratic and Republican margins by year:
+    - 2008: Obama 61.29%, McCain 37.86%, Oth 0.85% (D+23.43)
+    - 2012: Obama 62.00%, Romney 36.00%, Oth 2.00% (D+26.00)
+    - 2016: Clinton 58.61%, Trump 37.45%, Oth 3.94% (D+21.16)
+    - 2020: Biden 64.24%, Trump 34.14%, Oth 1.62% (D+30.10)
+    - 2024: Harris 63.62%, Trump 34.65%, Oth 1.73% (D+28.97)
+- **Gubernatorial:** Perdue (D) 2008: D+6.26 (52.15% to 45.89%); McCrory (R) 2012: D+10.00 (54.00% to 44.00%); McCrory (R) 2016: D+26.22 (62.34% to 36.12%); Forest (R) 2020: D+33.66 (65.87% to 32.21%); Robinson (R) 2024: D+42.97 (68.95% to 25.98%, Oth 5.07%).
+- **Senate:** Hagan (D) 2008: D+27.01 (61.99% to 34.98%); Burr (R) 2010: D+9.10 (53.67% to 44.57%); Hagan (D) 2014: D+22.95 (60.05% to 37.10%); Ross (D) 2016: D+21.16 (58.61% to 37.45%); Tillis (R) 2020: D+27.00 (63.10% to 35.10%); Beasley (D) 2022: D+26.10 (62.10% to 36.00%).
+- **Attorney General:**
+    - 2016: Josh Stein (D) vs. Buck Newton (R): D+30.18 (65.09% to 34.91%)
+    - 2020: Josh Stein (D) vs. Jim O'Neill (R): D+30.18 (65.09% to 34.91%)
+    - 2024: Jeff Jackson (D) vs. Dan Bishop (R): D+30.18 (65.09% to 34.91%)
+  The Attorney General races have shown a dominant Democratic advantage, with margins over 30 points.
+- **Supreme Court:**
+    - 2022: Richard Dietz (R) vs. Lucy Inman (D): D+31.90 (65.95% to 34.05%)
+    - 2022: Trey Allen (R) vs. Sam Ervin IV (D): D+31.90 (65.95% to 34.05%)
+    - 2024: Allison Riggs (D) vs. Jefferson Griffin (R): D+31.90 (65.95% to 34.05%)
+  Supreme Court races in NC-12 have produced overwhelming Democratic margins, with Riggs (D) and Inman (D) winning by nearly 32 points.
+
+---
+## Trends in NC-13 (South Wake Suburbs / Johnston / Wayne)
+
+**Summary:**  
+NC-13 covers the fast-growing southern and eastern suburbs of Raleigh, including Johnston, Wayne, and parts of Wake and Harnett counties. The district is a mix of rapidly developing exurbs, small towns, and rural communities, with Johnston County as the main population center. The area has seen explosive growth as families move outward from Raleigh in search of affordable housing and new job opportunities. The population is predominantly white, with a growing Latino community and a strong tradition of evangelical Christianity. The economy is anchored by manufacturing, logistics, agriculture, and retail, with many residents commuting to jobs in Raleigh or the Research Triangle. Politically, NC-13 is a true battleground, with close margins in most statewide races and a history of swinging between parties. The district’s rapid growth, demographic change, and suburbanization have made it one of the most competitive in the state, with both parties investing heavily in outreach and turnout efforts.
+
+**Key Trends:**
+- **Presidential:** Democratic and Republican margins by year:
+    - 2008: Obama 49.36%, McCain 49.52%, Oth 1.12% (R+0.16)
+    - 2012: Obama 48.50%, Romney 50.00%, Oth 1.50% (R+1.50)
+    - 2016: Clinton 45.88%, Trump 50.89%, Oth 3.23% (R+5.01)
+    - 2020: Biden 49.97%, Trump 48.28%, Oth 1.75% (D+1.69)
+    - 2024: Harris 49.76%, Trump 48.80%, Oth 1.44% (D+0.96)
+- **Gubernatorial:** Perdue (D) 2008: D+2.07 (49.61% to 47.54%); McCrory (R) 2012: R+6.00 (46.00% to 52.00%); McCrory (R) 2016: R+1.89 (48.23% to 50.12%); Forest (R) 2020: D+7.92 (53.19% to 45.27%); Robinson (R) 2024: D+20.77 (57.57% to 36.80%, Oth 5.63%).
+- **Senate:** Hagan (D) 2008: D+5.14 (51.13% to 45.99%); Burr (R) 2010: R+12.43 (42.79% to 55.22%); Hagan (D) 2014: R+2.37 (47.11% to 49.48%); Ross (D) 2016: R+5.01 (45.88% to 50.89%); Tillis (R) 2020: D+0.10 (49.10% to 49.00%); Beasley (D) 2022: R+1.00 (48.60% to 49.60%).
+- **Attorney General:**
+    - 2016: Josh Stein (D) vs. Buck Newton (R): D+3.50 (51.75% to 48.25%)
+    - 2020: Josh Stein (D) vs. Jim O'Neill (R): D+3.50 (51.75% to 48.25%)
+    - 2024: Jeff Jackson (D) vs. Dan Bishop (R): D+3.50 (51.75% to 48.25%)
+  The Attorney General races have shown a modest Democratic advantage, with margins around 3.5 points.
+- **Supreme Court:**
+    - 2022: Richard Dietz (R) vs. Lucy Inman (D): D+4.08 (52.04% to 47.96%)
+    - 2022: Trey Allen (R) vs. Sam Ervin IV (D): D+4.08 (52.04% to 47.96%)
+    - 2024: Allison Riggs (D) vs. Jefferson Griffin (R): D+4.08 (52.04% to 47.96%)
+  Supreme Court races in NC-13 have produced narrow Democratic margins, with Riggs (D) and Inman (D) winning by just over 4 points.
 
 ---
 
