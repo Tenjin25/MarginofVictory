@@ -631,7 +631,7 @@ These results underscored the deepening urban-rural divide, the growing influenc
 | 13        | South Wake Suburbs / Johnston / Wayne     | 51.75       | 48.25         |
 | 14        | South Charlotte / Ballantyne / Gastonia   | 56.94       | 43.06         |
 | Statewide | —                                        | 50.12       | 49.88         |
-*In 2020, Attorney General Josh Stein (D) was narrowly re-elected, defeating Jim O'Neill (R) by just 0.24 percentage points (50.12% to 49.88%).*
+
 | Statewide Winner | Margin |
 |------------------|--------|
 | Stein (D)        | +0.24  |
