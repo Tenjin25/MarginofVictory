@@ -633,7 +633,7 @@ These results underscored the deepening urban-rural divide, the growing influenc
 | Statewide | —                                        | 50.12       | 49.88         |
 *In 2020, Attorney General Josh Stein (D) was narrowly re-elected, defeating Jim O'Neill (R) by just 0.24 percentage points (50.12% to 49.88%).*
 | Statewide Winner | Margin |
-|------------------|--------| Stein performed strongly in urban and suburban districts, but many rural and working-class counties continued to trend Republican. Robeson and Scotland counties, which had previously supported Democratic AG candidates, remained Republican in 2020. The razor-thin margin highlights the competitiveness of statewide races in North Carolina and the persistence of split-ticket voting, as Stein outperformed Biden and other Democrats in several key districts. Notably, 2020 also saw Senator Thom Tillis (R) narrowly re-elected statewide, further illustrating the complex and competitive nature of North Carolina’s electorate and the challenges for Democrats in converting close statewide races into victories. Jim O'Neill, the Republican nominee, is the Forsyth County District Attorney; Forsyth is home to Winston-Salem, a major urban center in the Piedmont Triad region. After this race, Stein ran for governor in 2024 to succeed Roy Cooper, who was term-limited.
+|------------------|--------|
 | Stein (D)        | +0.24  |
 
 *In 2020, Attorney General Josh Stein (D) was narrowly re-elected, defeating Jim O'Neill (R) by just 0.24 percentage points (50.12% to 49.88%).*
