@@ -1226,8 +1226,6 @@ NC-14, covering the southern and western suburbs of Charlotte, is a rapidly evol
 
 ---
 
----
-
 ## Methodology & AI Assistance Disclosure
 This case study was researched, analyzed, and written by the author, with the assistance of GitHub Copilot (AI) for code automation, data extraction, and some markdown editing. All substantive analysis, narrative, and editorial decisions reflect the author's own work, insights, and pattern recognition. AI was used as a tool to streamline technical tasks, not to generate conclusions or interpretations.
 
