@@ -1225,3 +1225,36 @@ NC-14, covering the southern and western suburbs of Charlotte, is a rapidly evol
   The Attorney General races from 2016 to 2024 in this district have shown a consistent Democratic advantage, with Jackson winning by nearly 16 points in 2024. Both 2024 candidates were sitting members of Congress.
 
 ---
+
+---
+
+## Methodology & AI Assistance Disclosure
+This case study was researched, analyzed, and written by the author, with the assistance of GitHub Copilot (AI) for code automation, data extraction, and some markdown editing. All substantive analysis, narrative, and editorial decisions reflect the author's own work, insights, and pattern recognition. AI was used as a tool to streamline technical tasks, not to generate conclusions or interpretations.
+
+**Estimated Contribution:** Approximately 85% of this project—including all data sourcing, analysis, interpretation, and conclusions—is original work by the author. GitHub Copilot (AI) contributed about 15%, primarily by automating repetitive coding, assisting with data extraction, and providing technical formatting support. All AI usage was supervised, reviewed, and directed by the author to ensure accuracy, transparency, and responsible use.
+
+---
+
+## Analysis Notes
+- Districts with major partisan shifts will be highlighted in the narrative.
+- Split-ticket voting and outlier districts will be discussed.
+- Visualizations (maps, charts) may be added for clarity.
+- Cabarrus and Alamance counties, while still leaning Republican, have become more competitive in recent cycles (2020 margin: Cabarrus R+9.4, Alamance R+8.4; 2024 margin: Cabarrus R+7.7, Alamance R+8.1) as unaffiliated registration has surpassed both major parties and suburban growth accelerates due to proximity to Charlotte, the Triad, and the Triangle.
+    - In 2020, Trump carried Cabarrus County 53.94% to 44.50%, but it was also the first time since 2008 that a Democrat cracked 40% there, signaling increased competitiveness.
+    - In 2020, Trump carried Alamance County 53.50% to 45.10%, marking the first time since 2008 that a Democrat cracked 45% in the county (Obama received 44.94% that year).
+    - In 2024, Trump carried Cabarrus County 53.03% to 45.34% (R+7.7), continuing the trend of narrowing margins.
+    - In 2024, Trump carried Alamance County 53.36% to 45.22% (R+8.1) Again, Democrats maintained their improved share from 2020.
+    - Notably, the Democratic share in Alamance County was nearly identical in both 2020 (45.10%) and 2024 (45.22%), a pattern recognized by the analyst. This statistical similarity across cycles highlights the value of close data examination and underscores the importance of tracking subtle but persistent trends in competitive counties.
+    - The influx of new industries and residents has also contributed to rising voter registration and turnout in both counties, with unaffiliated voters now outnumbering both Democrats and Republicans. In recent statewide elections, shifts in Cabarrus and Alamance have been pivotal to overall margins, underscoring their growing importance in North Carolina's political landscape. These trends mirror broader national patterns of suburban realignment and the transformation of formerly safe Republican counties into competitive battlegrounds.
+    - In Cabarrus County, fast-growing communities include Concord, Kannapolis, and Harrisburg, each seeing significant residential and commercial development. In Alamance County, Graham, Burlington, and Mebane are expanding rapidly, with Mebane in particular attracting new industry and commuters due to its location along the I-40/I-85 corridor. Notably, a Buc-ee’s is scheduled to open in Mebane in late 2026 or early 2027, highlighting the area’s commercial growth and rising regional profile. These cities and towns exemplify the suburban growth and demographic change driving the region's political transformation.
+
+---
+
+## References
+- [NC State Board of Elections](https://www.ncsbe.gov/)
+- [Dave's Redistricting App](https://davesredistricting.org/)
+
+---
+
+*This file will be updated as new datasets or analysis are added.*
+
