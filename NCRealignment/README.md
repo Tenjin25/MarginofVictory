@@ -4,7 +4,7 @@
 
 ## Version History
 **Current Version:** 2.0 (Late July 2025)
-- Major update: Expanded glossary, added "Key Takeaways" for each district, improved formatting and navigation, updated for 2024 results, and enhanced accessibility for public release.
+- Major update: Expanded glossary, added "Key Takeaways" for each district, improved formatting and navigation, updated for 2024 results, and enhanced accessibility for public release. This version also introduces the concept of "firewall districts"—regions that now serve as partisan anchors for either party and play a strategic role in statewide outcomes.
 
 See the main case study for a detailed changelog.
 
