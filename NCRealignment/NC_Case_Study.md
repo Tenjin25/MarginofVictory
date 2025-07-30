@@ -957,7 +957,7 @@ NC-01, covering much of northeastern North Carolina, has long been a Democratic-
 - **Lt Governor:** Democratic candidates have won each cycle, but by shrinking margins—from over 9 points in 2016 to just over 8 in 2024. The narrowing gap reflects the district’s increasing competitiveness and the GOP’s rural gains, with Democratic strength anchored in urban and Black-majority precincts but eroding in outlying areas.
 
 **Narrative Note:**
-- *NC-01’s steady narrowing of Democratic margins reflects the GOP’s growing strength in rural and exurban areas, even as Black-majority precincts and urban centers remain Democratic anchors. The district is now more competitive than at any point in recent history, mirroring broader realignment trends in eastern North Carolina.*
+- *NC-01’s steady narrowing of Democratic margins reflects the GOP’s growing strength in rural and exurban areas, even as Black-majority precincts and urban centers remain Democratic anchors. The district is now more competitive than at any point in recent history, mirroring broader realignment trends in eastern North Carolina. Depopulation of Black Belt counties has further weakened the Democratic base, accelerating the district’s shift toward competitiveness and amplifying the impact of GOP gains in rural areas.*
 
 **Key Takeaways:**
 - NC-01 has shifted from a safe Democratic seat to a true battleground.
@@ -1009,8 +1009,8 @@ NC-02, covering northern Wake County and parts of Raleigh’s fast-growing subur
 - **President:** From 2008 to 2012, NC-02 was competitive, with Democratic margins around 11–14 points. Since 2016, the district has shifted decisively left, with Clinton, Biden, and Harris all winning by 22–28 points. The transformation is driven by explosive suburban growth, high educational attainment, and increasing racial and ethnic diversity—especially in North Raleigh, Morrisville, and Wake Forest. By 2024, the district had become a Democratic anchor in the Triangle, with margins nearly tripling since 2008.
 - **Governor:** After Republican Pat McCrory’s narrow win in 2012, the district shifted dramatically left, with Democratic margins widening in every cycle. Stein’s 2024 win by nearly 48 points (71.09%–23.48%) highlights the transformation from a competitive seat to a Democratic stronghold. The surge in Democratic support reflects explosive suburban growth, high educational attainment, and increasing diversity, especially in communities like North Raleigh and Morrisville.
 - **Senate:** Democrats have won every Senate race since 2010, with margins expanding from 13.78 points in 2014 to over 29 points in 2022 (Beasley 63.44%, Budd 34.16%). The district’s highly educated, diverse electorate—anchored by suburban professionals and new residents—drives strong Democratic performance and widening margins.
-- **Attorney General:** Stein and Jackson have both posted landslide wins, with margins growing from 22 points in 2016 to nearly 33 in 2024. This mirrors the broader partisan shift in NC-01, as Democratic strength in Black-majority precincts is offset by growing GOP support in rural and exurban areas. The race remains reliably Democratic, but the trend is toward increased competitiveness.
-- **Lt Governor:** Democratic candidates have won each cycle, but by shrinking margins—from over 9 points in 2016 to just over 8 in 2024. The narrowing gap reflects the district’s increasing competitiveness and the GOP’s rural gains, with Democratic strength anchored in urban and Black-majority precincts but eroding in outlying areas.
+- **Attorney General:** Stein and Jackson have both posted landslide wins, with margins growing from 22 points in 2016 to nearly 33 in 2024. This mirrors the broader partisan shift in NC-02, as Democratic strength in Black-majority precincts is offset by growing GOP support in rural and exurban areas. The race remains reliably Democratic, but the trend is toward increased competitiveness.
+- **Lt Governor:** Democratic candidates have won each cycle by increasingly large margins, with the gap widening from about 13 points in 2016 to over 31 points in 2024. This growing advantage reflects the district’s rapid suburban growth, rising educational attainment, and increasing racial and ethnic diversity. Democratic strength is anchored in affluent, highly educated suburbs and fast-growing communities, while Republican support has diminished as the district’s demographics have shifted.
 
 **Narrative Note:**
 - *NC-02’s explosive suburban growth and increasing diversity have transformed it into a Democratic stronghold, with margins widening in every recent statewide race. The district is now a core part of the Democratic coalition in the Triangle, with its political future closely tied to the ongoing trends of urbanization and demographic change.*
@@ -1091,15 +1091,15 @@ NC-04, anchored by Durham, Chapel Hill, and the Research Triangle Park, is the m
 - **President:**
     - 2008: Obama (D) 68.38%, McCain (R) 29.97% (D+38.41)
     - 2012: Obama (D) 68.13%, Romney 30.00% (D+38.13)
-    - 2016: Clinton (D) 71.13%, Trump (R) 27.00% (D+44.13)
-    - 2020: Biden (D) 75.13%, Trump (R) 24.00% (D+51.13)
-    - 2024: Harris (D) 75.21%, Trump (R) 23.80% (D+51.41)
+    - 2016: Clinton (D) 66.77%, Trump (R) 31.78% (D+34.99)
+    - 2020: Biden (D) 66.77%, Trump (R) 31.78% (D+34.99)
+    - 2024: Harris (D) 69.30%, Trump (R) 30.70% (D+38.60)
 - **Governor:**
     - 2008: Perdue (D) 65.21%, McCrory 32.80% (D+32.41)
     - 2012: Dalton (D) 61.57%, McCrory 38.44% (D+23.13)
-    - 2016: Cooper (D) 70.13%, McCrory 29.00% (D+41.13)
-    - 2020: Cooper (D) 74.13%, Forest 26.00% (D+48.13)
-    - 2024: Stein (D) 75.21%, Robinson (R) 24.80% (D+50.41)
+    - 2016: Cooper (D) 69.15%, McCrory (R) 29.59% (D+39.56)
+    - 2020: Cooper (D) 69.15%, Forest (R) 29.59% (D+39.56)
+    - 2024: Stein (D) 71.89%, Robinson (R) 24.31% (D+47.58)
 - **Senate:**
     - 2008: Hagan (D) 66.21%, Dole (R) 31.80% (D+34.41)
     - 2010: Marshall (D) 59.07%, Burr (R) 40.94% (D+18.13)
@@ -1108,29 +1108,29 @@ NC-04, anchored by Durham, Chapel Hill, and the Research Triangle Park, is the m
     - 2020: Cunningham (D) 71.07%, Tillis (R) 26.94% (D+44.13)
     - 2022: Beasley (D) 74.07%, Budd (R) 24.94% (D+49.13)
 - **Attorney General:**
-    - 2016: Stein 68.07%, Newton 29.94% (D+38.13)
-    - 2020: Stein 71.07%, O'Neill 26.94% (D+44.13)
-    - 2024: Jackson 74.07%, Bishop 24.94% (D+49.13)
+    - 2016: Stein (D) 68.04%, Newton (R) 31.96% (D+36.08)
+    - 2020: Stein (D) 68.04%, O'Neill (R) 31.96% (D+36.08)
+    - 2024: Jackson (D) 69.30%, Bishop (R) 30.70% (D+38.60)
 - **Lt Governor:**
-    - 2016: Coleman 68.07%, Forest 29.94% (D+38.13)
-    - 2020: Holley 71.07%, Robinson 26.94% (D+44.13)
-    - 2024: Hunt 74.07%, Weatherman 24.94% (D+49.13)
+    - 2016: Coleman (D) 66.44%, Forest (R) 33.56% (D+32.88)
+    - 2020: Holley (D) 66.44%, Robinson (R) 33.56% (D+32.88)
+    - 2024: Hunt (D) 69.30%, Weatherman (R) 30.70% (D+38.60)
 - **Supreme Court:**
-    - 2022: Inman 74.07%, Dietz 25.94% (D+48.13)
-    - 2022.1: Ervin 73.07%, Allen 25.94% (D+47.13)
-    - 2024: Riggs 74.07%, Griffin 24.94% (D+49.13)
+    - 2022: Inman (D) 67.82%, Dietz (R) 32.18% (D+35.64)
+    - 2022.1: Ervin (D) 67.69%, Allen (R) 32.31% (D+35.38)
+    - 2024: Riggs (D) 69.30%, Griffin (R) 30.70% (D+38.60)
 
 
 **Analytical Notes:**
-- **President:** Democratic candidates have won by landslide margins (38–51 points) in every cycle, with margins growing as Durham and Orange counties have seen rapid population growth, increased diversity, and high turnout among young, Black, and highly educated voters. The district’s core—anchored by Durham and Chapel Hill—delivers some of the largest Democratic margins in the state, while outlying areas like Alamance and Person counties remain more competitive, reflecting the district’s urban-rural divide.
-- **Governor:** Democrats have posted overwhelming wins, with margins above 23 points in every cycle. Turnout is consistently high in university precincts and among young professionals, driving Democratic dominance. The district’s highly educated, urban electorate, and strong progressive base in Durham and Chapel Hill, ensure Democratic strength even in lower-turnout midterm cycles.
-- **Senate:** Democratic dominance is clear, with margins above 18 points in every race and nearly 50 points in 2022. The district’s progressive identity is reinforced by high turnout among students and faculty at Duke and UNC, as well as strong support from Black and Latino communities. Republican competitiveness is limited to more rural precincts, but these are outweighed by the urban core.
-- **Attorney General:** Stein and Jackson have both won by nearly 50 points, mirroring the district’s deep blue trend and strong support for down-ballot Democrats. The legal and academic communities in Durham and Chapel Hill contribute to high engagement in these races, and Democratic candidates benefit from the district’s progressive lean.
-- **Lt Governor:** Democratic candidates have swept every cycle by wide margins, with little sign of GOP competitiveness. The race tracks closely with other statewide Democratic results, reflecting the district’s highly educated, urban, and diverse electorate.
--  **Supreme Court:** Democratic candidates have won all recent Supreme Court races by landslide margins, with margins above 47 points. The district’s legal and academic communities, as well as high turnout in urban precincts, drive strong Democratic performance even in judicial races, further cementing NC-04’s status as a progressive stronghold.
+- **President:** Democratic candidates have consistently won by large margins (typically 35–39 points), with the district’s core—anchored by Durham and Chapel Hill—delivering some of the largest Democratic shares in the state. Margins have remained strong as the area’s population grows and diversifies, though outlying counties like Alamance and Person remain more competitive, highlighting the district’s urban-rural divide.
+- **Governor:** Democrats have posted decisive wins, with margins above 23 points in every cycle and typically around 40–48 points in recent years. High turnout in university precincts and among young professionals drives Democratic dominance, and the district’s highly educated, urban electorate ensures continued strength even in midterms.
+- **Senate:** Democratic dominance is clear, with margins above 18 points in every race and reaching nearly 49 points in 2022. The district’s progressive identity is reinforced by high turnout among students, faculty, and diverse communities, with Republican competitiveness limited to rural precincts.
+- **Attorney General:** Democratic candidates have won by strong margins (36–39 points), reflecting the district’s deep blue trend and strong support for down-ballot Democrats. Legal and academic communities in Durham and Chapel Hill contribute to high engagement in these races.
+- **Lt Governor:**  Democratic candidates have swept every cycle by wide margins (33–39 points), closely tracking other statewide Democratic results and reflecting the district’s highly educated, urban, and diverse electorate.
+-  **Supreme Court:** Democratic candidates have won all recent Supreme Court races by substantial margins (35–39 points). High turnout in urban precincts and strong engagement from legal and academic communities drive continued Democratic strength, cementing NC-04’s status as a progressive stronghold..
 
 **Narrative Note:**
-- *NC-04 is the most Democratic district in North Carolina, anchored by powerhouse universities and a highly diverse, highly educated population. The area’s rapid growth and diversity have only deepened its blue tilt, making it a progressive stronghold and a core anchor of the state’s Democratic coalition.*
+- *NC-04 is the most Democratic district in North Carolina, anchored by powerhouse universities such as Duke, UNC-Chapel Hill, and NC Central, and home to the Research Triangle Park. The district boasts a highly diverse and highly educated population, with significant Black, Latino, Asian, and LGBTQ+ communities contributing to its progressive identity. Rapid population growth, driven by an influx of students, young professionals, and tech sector workers, has further deepened its blue tilt. Durham and Chapel Hill serve as cultural and economic hubs, fostering high civic engagement, innovation, and a strong base for Democratic candidates. While the urban core delivers overwhelming Democratic margins, the district also includes more competitive outlying areas, highlighting the ongoing urban-rural and educational divides that shape North Carolina’s political landscape. As a result, NC-04 stands as both a progressive stronghold and a core anchor of the state’s Democratic coalition.*
 
 **Key Takeaways:**
 - NC-04 is the most Democratic district in the state, with landslide margins for Democrats in every major race.
@@ -1186,7 +1186,7 @@ NC-05 covers the northwestern foothills and mountain regions of North Carolina, 
 - **Lt Governor:** Republicans have swept every cycle since 2016, with margins above 17 points and peaking at 24.6 in 2016. The district’s deep red identity is reflected in these landslide wins, with Democratic strength limited to Boone and urban Winston-Salem.
 - **Supreme Court:** Republicans have dominated recent Supreme Court races, winning both contests in 2022 by over 24 points (Dietz +25.16, Allen +24.08) and maintaining a large margin in 2024 (Griffin +19.64). This sweep underscores the district’s strong GOP alignment even in judicial races, with little evidence of ticket-splitting. The margins in these races closely mirror those in other statewide contests, highlighting the district’s consolidated Republican base.
 **Narrative Note:**
-- *NC-05’s rural and exurban areas have become even more Republican, with Democrats struggling to reach 40% in most races. Boone and Winston-Salem remain Democratic pockets, but the broader region reflects the GOP’s growing dominance in the foothills and mountains.*
+- *NC-05’s rural and exurban areas have become even more reliably Republican in recent cycles, with Democratic candidates often struggling to reach 40% of the vote in most statewide races. The district’s political landscape is shaped by its predominantly white, working-class population, strong evangelical presence, and a culture rooted in traditional values. While Boone—home to Appalachian State University—and parts of Winston-Salem provide Democratic-leaning enclaves with younger, more diverse, and college-educated voters, these pockets are increasingly outweighed by the broader region’s GOP strength. Neighboring Yadkin County, another county in the district, exemplifies this trend: it is one of the most staunchly Republican counties in North Carolina, regularly delivering over 75% of its vote to GOP candidates. The foothills and mountain counties have seen the Republican margin grow as national trends have pushed rural voters further right, making NC-05 a clear example of the GOP’s expanding dominance in western North Carolina.*
 
 **Key Takeaways:**
 - NC-05 is a solid Republican district, the second of four firewall districts for the GOP, with growing GOP margins in rural and exurban areas.
@@ -1751,3 +1751,16 @@ Below are definitions of key terms used throughout this case study:
     - In Cabarrus County, fast-growing communities include Concord, Kannapolis, and Harrisburg, each seeing significant residential and commercial development. In Alamance County, Graham, Burlington, and Mebane are expanding rapidly, with Mebane in particular attracting new industry and commuters due to its location along the I-40/I-85 corridor. Notably, a Buc-ee’s is scheduled to open in Mebane in late 2026 or early 2027, highlighting the area’s commercial growth and rising regional profile. These cities and towns exemplify the suburban growth and demographic change driving the region's political transformation.
 
 ---
+
+## References
+
+- North Carolina State Board of Elections: https://www.ncsbe.gov/
+- Ballotpedia: North Carolina Elections: https://ballotpedia.org/North_Carolina
+- Wikipedia: North Carolina election results and county flips (various years)
+- Official county and state election archives (2008–2024)
+- U.S. Census Bureau: North Carolina demographic data
+
+## Appendix
+
+- Supplemental tables, maps, and methodology notes may be added here in future updates.
+- For raw data, see the CSV files referenced in the Data Sources section above.
