@@ -67,6 +67,19 @@ This document is intended for political analysts, students, journalists, and any
 
 ---
 
+## AI Attribution
+
+This case study was developed with the assistance of advanced AI tools, including GitHub Copilot and large language models, to enhance data validation, trend analysis, and narrative clarity. AI was used to:
+- Cross-check and summarize election data from official sources and CSV datasets
+- Suggest improvements to formatting, accessibility, and document structure
+- Generate and refine narrative sections, analytical notes, and key takeaways for each district
+- Expand the glossary and provide technical explanations for non-expert readers
+
+Approximately 85–90% of the research, analysis, data interpretation, and writing is original work by the project author. AI-generated or AI-assisted content—including drafting, formatting suggestions, technical summaries, glossary expansion, and some narrative phrasing—accounts for about 10–15% of the final document.
+
+All AI-generated content was carefully reviewed, fact-checked, and edited by the project author to ensure accuracy, context, and editorial integrity. Final decisions regarding data interpretation, narrative framing, and presentation were made by the author. The use of AI was intended to support, not replace, human expertise and judgment throughout the research and writing process.
+
+---
 
 ## Methodology
 - Each dataset contains district-level Democratic, Republican, and Other vote shares for a given election year, plus a "Statewide" row for context.
