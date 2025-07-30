@@ -1170,6 +1170,7 @@ NC-06 encompasses the heart of the Triad region, including most of Greensboro, W
 **Narrative Note:**
 > *NC-06’s rapid urban growth, diversity, and high educational attainment have shifted it decisively toward the Democratic Party, with rising turnout among young, Black, and Latino voters further strengthening Democratic margins. Some suburban and exurban precincts remain competitive, reflecting the region’s ongoing demographic and political evolution.*
 
+---
 
 ## Trends in NC-07 (Fayetteville / Wilmington / Lumberton)
 
@@ -1220,6 +1221,7 @@ NC-07 spans southeastern North Carolina, stretching from the fast-growing coasta
 **Narrative Note:**
 > *NC-07’s transformation is driven by the dramatic realignment of Robeson County and the Lumbee tribe, as well as broader rural shifts. While Fayetteville and Wilmington anchor Democratic strength, the district’s rural and Native areas now form a solid Republican bloc, making NC-07 a microcosm of eastern North Carolina’s changing political landscape.*
 
+---
 
 ## Trends in NC-08 (Lexington / Salisbury / Union County)
 
@@ -1417,6 +1419,8 @@ NC-13 is one of North Carolina’s most competitive and rapidly changing distric
 > **Attorney General:** Margins have shifted from a near-tie in 2016 (Stein +0.6) to a clear Democratic edge in 2024 (Jackson +6.9), as the party consolidates support in growing suburbs and among minority communities in Goldsboro and southern Wake. The race has become a bellwether for broader partisan trends, with local issues like public safety and education playing a larger role.
 > **Lt Governor:** The district has flipped between parties, with the Democratic margin growing to 6.2 in 2024 as suburban and minority turnout increased. Johnston County’s rapid development and the increasing diversity of Wake’s suburbs have played a key role, while Harnett and rural Wayne remain Republican anchors. Down-ballot races increasingly mirror the top of the ticket.
 > **Supreme Court:** Judicial races have been extremely close, with Democratic margins ranging from 0.2 to 4.1 points. The results reflect the district’s competitive nature, the impact of high turnout in suburban and minority precincts, and the importance of every vote in a district where partisan control is always up for grabs. Local legal issues and candidate backgrounds have also influenced outcomes, making these races especially unpredictable.
+
+---
 
 ## Trends in NC-14 (South Charlotte / Ballantyne / Gastonia)
 
