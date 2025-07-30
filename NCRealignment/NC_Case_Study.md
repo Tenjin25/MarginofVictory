@@ -1,6 +1,20 @@
 
 # North Carolina Congressional Realignment Case Study (2008–2024)
 
+![Version](https://img.shields.io/badge/version-2.0-blue.svg)
+
+## Changelog
+
+### Version 2.0 (Late July 2025)
+- Expanded glossary
+- Added "Key Takeaways" for each district
+- Improved formatting and navigation
+- Updated for 2024 results
+- Enhanced accessibility for public release
+
+### Version 1.0 (Early July 2025)
+- Initial public release with district-level and statewide results for all major races (2008–2024)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -233,7 +247,7 @@ This document is intended for political analysts, students, journalists, and any
 |------------------|--------|
 | Burr (R)         | +11.78 |
 
-*In 2010, Senator Richard Burr (R) was re-elected, defeating Secretary of State Elaine Marshall (D) by 11.78 percentage points (54.82% to 43.04%).*
+*In 2010, Senator Richard Burr (R) was re-elected, defeating Secretary of State Elaine Marshall (D) by 11.78 percentage points (54.82% to 43.04%). The race took place during a national Republican wave, with Burr benefiting from strong GOP turnout and widespread dissatisfaction with the Obama administration. Marshall, a long-serving Secretary of State, struggled to gain traction in a challenging environment for Democrats. Burr’s victory marked the first time a North Carolina U.S. Senator was re-elected since Jesse Helms in 1990, signaling a consolidation of Republican strength in the state’s federal races. The result reflected the growing urban-rural divide, with Marshall performing best in urban and minority-heavy areas, while Burr expanded his margins in rural and suburban districts. This election marked a turning point, as the GOP solidified its dominance in North Carolina’s congressional delegation and set the stage for further Republican gains in the following decade.*
 
 > **County Flips & Context:** The 2010 Senate race reflected the national Republican wave, with Burr expanding his margins in rural and suburban districts. Marshall performed best in urban and minority-heavy areas, but the GOP made gains nearly everywhere. This election marked a consolidation of Republican strength in North Carolina’s federal races.
 
@@ -488,27 +502,28 @@ Trump was the first Republican to win Robeson, Richmond, and Gates counties sinc
 |------------------|--------|
 | Forest (R)         | +6.50  |
 
+*In 2016, Republican Dan Forest was re-elected as North Carolina’s Lieutenant Governor, defeating Democrat Linda Coleman by 6.5 percentage points (51.81% to 45.31%). Forest, an architect and the son of former Congresswoman Sue Myrick, ran on a conservative platform emphasizing education reform, economic growth, and support for House Bill 2 (“the bathroom bill”). Coleman, a former state representative and Wake County commissioner, focused her campaign on public education, workers’ rights, and expanding opportunity. The race was shaped by the same polarizing issues that defined the gubernatorial contest, including debates over civil rights, the state’s business climate, and the national political environment. Forest’s victory reflected strong Republican support in rural and suburban areas, while Coleman performed best in urban and minority-heavy districts. The result underscored the persistence of split-ticket voting in North Carolina, as some voters supported Democrat Roy Cooper for governor but chose Forest for lieutenant governor. Forest would go on to serve two terms and later run for governor in 2020.*
 
 
 ## District-Level 2016 U.S. Senate Results
 
-| District | Ross (D) % | Burr (R) % | Oth % |
-|----------|------------|------------|-------|
-| 1        | 53.10      | 44.57      | 2.33  |
-| 2        | 55.89      | 41.01      | 3.11  |
-| 3        | 34.91      | 61.53      | 3.56  |
-| 4        | 63.56      | 33.77      | 2.67  |
-| 5        | 35.86      | 60.34      | 3.81  |
-| 6        | 52.13      | 44.74      | 3.13  |
-| 7        | 41.32      | 54.89      | 3.79  |
-| 8        | 29.67      | 66.02      | 4.32  |
-| 9        | 43.63      | 52.83      | 3.54  |
-| 10       | 28.53      | 66.77      | 4.70  |
-| 11        | 41.68      | 54.17      | 4.15  |
-| 12       | 58.61      | 37.45      | 3.94  |
-| 13       | 45.88      | 50.89      | 3.23  |
-| 14       | 49.07      | 47.00      | 3.93  |
-| Statewide | —                                        | 45.36       | 51.06      |
+| District | Region                                   | Ross (D) % | Burr (R) % | Oth % |
+|----------|------------------------------------------|------------|------------|-------|
+| 1        | Northeast / Inner Coastal Plain           | 53.10      | 44.57      | 2.33  |
+| 2        | Raleigh Metro / North Wake                | 55.89      | 41.01      | 3.11  |
+| 3        | Eastern / Crystal Coast / Morehead City   | 34.91      | 61.53      | 3.56  |
+| 4        | Durham / Chapel Hill / RTP / Hillsborough | 63.56      | 33.77      | 2.67  |
+| 5        | Northwest / Foothills / Mt. Airy          | 35.86      | 60.34      | 3.81  |
+| 6        | Greensboro / Winston-Salem / High Point   | 52.13      | 44.74      | 3.13  |
+| 7        | Fayetteville/ Wilmington / Lumberton      | 41.32      | 54.89      | 3.79  |
+| 8        | Lexington/ Salisbury / Union County       | 29.67      | 66.02      | 4.32  |
+| 9        | Asheboro / Fort Bragg / Southern Pines    | 43.63      | 52.83      | 3.54  |
+| 10       | Western Foothills / Nw Gaston County / Cleveland County | 28.53      | 66.77      | 4.70  |
+| 11       | Asheville / Hendersonville / Brevard      | 41.68      | 54.17      | 4.15  |
+| 12       | Uptown Charlotte / Davidson / Concord     | 58.61      | 37.45      | 3.94  |
+| 13       | South Wake Suburbs / Johnston / Wayne     | 45.88      | 50.89      | 3.23  |
+| 14       | South Charlotte / Ballantyne / Gastonia   | 49.07      | 47.00      | 3.93  |
+| Statewide| —                                        | 45.36      | 51.06      |       |
 
 | Statewide Winner | Margin |
 |------------------|--------|
@@ -555,6 +570,7 @@ Trump was the first Republican to win Robeson, Richmond, and Gates counties sinc
 |------------------|--------|
 | Stein (D)        | +0.54  |
 
+*In 2016, Democrat Josh Stein narrowly defeated Republican Buck Newton for Attorney General by just 0.54 percentage points (50.27% to 49.73%), making it the closest statewide race in North Carolina that year. Stein, a former state senator from Raleigh, ran on a platform focused on consumer protection and criminal justice reform, while Newton, a state senator from Wilson, emphasized law-and-order themes and opposition to the Obama administration. The campaign was marked by sharp contrasts on issues such as House Bill 2 (“the bathroom bill”), voting rights, and public safety. Stein’s victory reflected strong Democratic support in urban and suburban counties, while Newton performed well in rural and exurban areas. The razor-thin margin underscored North Carolina’s competitive political landscape and the importance of turnout and down-ballot voting patterns in statewide races. Stein would go on to serve two terms and later run for governor.*
 
 ## District-Level 2020 Results (Grouped)
 
@@ -886,7 +902,7 @@ These results underscored the deepening urban-rural divide, the growing influenc
 | 7        | Fayetteville / Wilmington / Lumberton     | 44.80            | 55.20             |
 | 8        | Lexington / Salisbury / Union County      | 33.90            | 66.10             |
 | 9        | Asheboro / Fort Bragg / Southern Pines    | 46.80            | 53.20             |
-| 10       | Western Foothills / Nw Gaston / Cleveland County | 31.50            | 68.50             |
+| 10       | Western Foothills / Nw Gaston / Cleveland County | 31.50 | 68.50 |
 | 11       | Asheville / Hendersonville / Brevard      | 46.10            | 53.90             |
 | 12       | Uptown Charlotte / Davidson / Concord     | 66.10            | 33.90             |
 | 13       | South Wake Suburbs / Johnston / Wayne     | 52.30            | 47.70             |
@@ -907,7 +923,7 @@ NC-01, covering much of northeastern North Carolina, has long been a Democratic-
 **Key Trends:**
 - **President:**
     - 2008: Obama (D) 56.36%, McCain (R) 42.66% (D+13.7)
-    - 2012: Obama (D) 57.2%, Romney 42.8% (D+14.4)
+    - 2012: Obama (D) 57.2%, Romney (R) 42.8% (D+14.4)
     - 2016: Clinton (D) 53.63%, Trump (R) 43.78% (D+9.85)
     - 2020: Biden (D) 53.11%, Trump (R) 45.82% (D+7.29)
     - 2024: Harris (D) 51.06%, Trump (R) 48.05% (D+3.01)
@@ -921,8 +937,8 @@ NC-01, covering much of northeastern North Carolina, has long been a Democratic-
     - 2008: Hagan (D) 59.55%, Dole (R) 38.61% (D+20.94)
     - 2010: Marshall (D) 52.75%, Burr (R) 45.83% (D+6.92)
     - 2014: Hagan (D) 54.38%, Tillis (R) 42.68% (D+11.7)
-    - 2016: Burr (R) 53.1%, Ross (D) 44.57% (R+8.53)
-    - 2020: Tillis (R) 52.51%, Cunningham (D) 44.02% (R+8.49)
+    - 2016: Burr (R) 53.1%, Ross (D) 44.57% (D+8.53)
+    - 2020: Tillis (R) 52.51%, Cunningham (D) 44.02% (D+8.49)
     - 2022: Beasley (D) 49.3%, Budd (R) 48.81% (D+0.49)
 - **Attorney General:**
     - 2016: Stein (D) 56.92%, Newton (R) 43.08% (D+13.84)
@@ -959,7 +975,7 @@ NC-02, covering northern Wake County and parts of Raleigh’s fast-growing subur
 **Key Trends:**
 - **President:**
     - 2008: Obama (D) 56.38%, McCain (R) 42.51% (D+13.87)
-    - 2012: Obama (D) 55.61%, Romney 44.39% (D+11.22)
+    - 2012: Obama (D) 55.61%, Romney (R) 44.39% (D+11.22)
     - 2016: Clinton (D) 58.21%, Trump (R) 36.22% (D+21.99)
     - 2020: Biden (D) 63.37%, Trump (R) 34.72% (D+28.65)
     - 2024: Harris (D) 63.08%, Trump (R) 35.26% (D+27.82)
@@ -993,9 +1009,8 @@ NC-02, covering northern Wake County and parts of Raleigh’s fast-growing subur
 - **President:** From 2008 to 2012, NC-02 was competitive, with Democratic margins around 11–14 points. Since 2016, the district has shifted decisively left, with Clinton, Biden, and Harris all winning by 22–28 points. The transformation is driven by explosive suburban growth, high educational attainment, and increasing racial and ethnic diversity—especially in North Raleigh, Morrisville, and Wake Forest. By 2024, the district had become a Democratic anchor in the Triangle, with margins nearly tripling since 2008.
 - **Governor:** After Republican Pat McCrory’s narrow win in 2012, the district shifted dramatically left, with Democratic margins widening in every cycle. Stein’s 2024 win by nearly 48 points (71.09%–23.48%) highlights the transformation from a competitive seat to a Democratic stronghold. The surge in Democratic support reflects explosive suburban growth, high educational attainment, and increasing diversity, especially in communities like North Raleigh and Morrisville.
 - **Senate:** Democrats have won every Senate race since 2010, with margins expanding from 13.78 points in 2014 to over 29 points in 2022 (Beasley 63.44%, Budd 34.16%). The district’s highly educated, diverse electorate—anchored by suburban professionals and new residents—drives strong Democratic performance and widening margins.
-- **Attorney General:** Stein and Jackson have both posted landslide wins, with margins growing from 22 points in 2016 to nearly 33 in 2024. The district’s highly educated, diverse, and suburban electorate drives strong Democratic performance down the ballot, and the trend is toward even larger Democratic margins as the area continues to grow and diversify.
-- **Lt Governor:** Democratic candidates have won by double digits in every cycle, with margins expanding from 13 points in 2016 to over 31 in 2024. This mirrors the district’s broader partisan realignment, as suburban growth and demographic change have made the district a Democratic stronghold at every level.
-- **Supreme Court:** Democratic candidates have swept all recent Supreme Court races, with margins near or above 28 points, underscoring the district’s strong Democratic identity.
+- **Attorney General:** Stein and Jackson have both posted landslide wins, with margins growing from 22 points in 2016 to nearly 33 in 2024. This mirrors the broader partisan shift in NC-01, as Democratic strength in Black-majority precincts is offset by growing GOP support in rural and exurban areas. The race remains reliably Democratic, but the trend is toward increased competitiveness.
+- **Lt Governor:** Democratic candidates have won each cycle, but by shrinking margins—from over 9 points in 2016 to just over 8 in 2024. The narrowing gap reflects the district’s increasing competitiveness and the GOP’s rural gains, with Democratic strength anchored in urban and Black-majority precincts but eroding in outlying areas.
 
 **Narrative Note:**
 - *NC-02’s explosive suburban growth and increasing diversity have transformed it into a Democratic stronghold, with margins widening in every recent statewide race. The district is now a core part of the Democratic coalition in the Triangle, with its political future closely tied to the ongoing trends of urbanization and demographic change.*
@@ -1021,9 +1036,9 @@ NC-03, stretching along the Crystal Coast and rural eastern counties, remains a 
     - 2020: Trump (R) 61.91%, Biden (D) 36.59% (R+25.32)
     - 2024: Trump (R) 64.37%, Harris (D) 34.76% (R+29.61)
 **Governor:**
-    - Perdue (D) 53.28%, McCrory (R) 44.22% (D+9.06)
-    - McCrory (R) 60.85%, Dalton (D) 37.09% (R+23.76)
-    - McCrory (R) 61.59%, Cooper (D) 36.50% (R+25.09)
+    - 2008: Perdue (D) 53.28%, McCrory (R) 44.22% (D+9.06)
+    - 2012: McCrory (R) 60.85%, Dalton (D) 37.09% (R+23.76)
+    - 2016: McCrory (R) 61.59%, Cooper (D) 36.50% (R+25.09)
     - 2020: Forest (R) 59.37%, Cooper (D) 39.09% (R+20.28)
     - 2024: Robinson (R) 53.53%, Stein (D) 41.33% (R+12.2)
 **Senate:**
@@ -1049,8 +1064,8 @@ NC-03, stretching along the Crystal Coast and rural eastern counties, remains a 
 
 
 **Analytical Notes:**
-- **President:** Republican margins have grown steadily from 16.8 points in 2008 (McCain) to nearly 30 points in 2024 (Trump 64.37%, Harris 34.76%). The district’s rural, military, and coastal communities have become GOP strongholds, with Democratic support now limited to a few coastal towns and Black voters in rural areas.
-- **Governor:** The district flipped from Democratic (Perdue +9 in 2008) to Republican in 2012, with GOP margins growing to over 25 points in 2016 and remaining double digits through 2024 (Robinson +12.2)—even with the higher third party vote share in 2024. This reflects the broader rural realignment and the GOP’s consolidation of eastern North Carolina.
+- **President:** Republican margins have steadily increased from 16.8 points in 2008 (McCain) to nearly 30 points in 2024 (Trump 64.37%, Harris 34.76%). The district’s rural, military, and coastal communities have become GOP strongholds, with Democratic support now limited to a few coastal towns and Black voters in rural areas.
+- **Governor:** The district flipped from Democratic (Perdue +9 in 2008) to Republican in 2012, with GOP margins growing to over 25 points in 2016 and remaining double digits through 2024 (Robinson +12.2). This reflects the broader rural realignment and the GOP’s consolidation of eastern North Carolina.
 - **Senate:** Republicans have dominated every Senate race since 2010, with margins ranging from 19 to 30 points (Budd +30.39 in 2022). The district’s conservative base and military presence drive consistent GOP victories, with Democratic competitiveness fading after 2008.
 - **Attorney General:** GOP candidates have won by over 20 points in every cycle from 2016 to 2024, with margins of 22 points (2016), 23.6 (2020), and 23.2 (2024). Republican strength is consistent across rural, military, and coastal counties, with Democratic support limited to a handful of coastal towns and Black-majority precincts. The trend reflects the district’s deepening Republican identity and the broader partisan shift in rural and coastal North Carolina, as down-ballot races increasingly mirror the top of the ticket.
 - **Lt Governor:** Republican candidates have posted landslide wins in every cycle since 2016, with Forest winning by 25.59 points in 2016, Robinson by 26.76 in 2020, and Weatherman by 23.25 in 2024. These consistently large margins highlight the district’s deep red trend and the GOP’s dominance in down-ballot races, reflecting strong support in rural, military, and coastal counties. Democratic support is limited to a handful of coastal towns and Black-majority precincts, but the overall pattern mirrors the top of the ticket: a solidifying Republican stronghold with little sign of Democratic resurgence.
@@ -1624,7 +1639,7 @@ NC-13 is one of North Carolina’s most competitive and rapidly changing distric
 
 **Analytical Notes:**
 - **President:** NC-13 is a true swing district, with margins under 3 points in every cycle since 2008. The explosive growth of Johnston County—especially in Clayton and along the I-40 corridor—has brought an influx of young families, commuters, and new businesses, shifting many precincts from reliably Republican to highly competitive. Southern Wake suburbs like Fuquay-Varina and Holly Springs have also trended left, while Harnett and rural western Wayne remain GOP strongholds. Black and Latino communities in Goldsboro and the Raleigh area of Wake County provide a crucial Democratic base, and high turnout in these areas has been decisive in recent cycles. The 2020 and 2024 elections saw razor-thin Democratic wins, with national issues and local demographic change both playing major roles.
-- **Governor:** Gubernatorial races have swung between the parties, but the Democratic surge in Johnston and Wake since 2016 has been dramatic. Stein’s 2024 margin (+20.8) was driven by record turnout in suburban precincts, while Harnett and rural Wayne continued to anchor the Republican vote. Stein's 2024 blowout could've been enhanced by Mark Robinson's candidate quality issues and September surprise alienating unaffilated swing voters, which matter a lot in a district like this. The district’s mix of fast-growing exurbs and traditional rural communities makes it a bellwether for statewide trends.
+- **Governor:** Gubernatorial races have swung between the parties, but the Democratic surge in Johnston and southern Wake since 2016 has been dramatic. Stein’s 2024 margin (+20.8) was driven by record turnout in suburban precincts, while Harnett and rural Wayne continued to anchor the Republican vote. Stein's 2024 blowout could've been enhanced by Mark Robinson's candidate quality issues and September surprise alienating unaffilated swing voters, which matter a lot in a district like this. The district’s mix of fast-growing exurbs and traditional rural communities makes it a bellwether for statewide trends.
 - **Senate:** Senate contests have been highly competitive, with margins under 6 points in every cycle since 2008. Democratic gains in Johnston and Wake have been offset by strong Republican performance in Harnett and Wayne. Beasley’s narrow win in 2022 (+1.5) underscores the volatility and importance of both suburban and rural turnout.
 - **Attorney General:** Margins have shifted from a near-tie in 2016 (Stein +0.6) to a clear Democratic edge in 2024 (Jackson +6.9), as the party consolidates support in growing suburbs and among minority communities in Goldsboro and southern Wake. The race has become a bellwether for broader partisan trends, with local issues like public safety and education playing a larger role.
 - **Lt Governor:** The district has flipped between parties, with the Democratic margin growing to 6.2 in 2024 as suburban and minority turnout increased. Johnston County’s rapid development and the increasing diversity of Wake’s suburbs have played a key role, while Harnett and rural Wayne remain Republican anchors. Down-ballot races increasingly mirror the top of the ticket.
@@ -1682,11 +1697,11 @@ NC-14, covering the southern and western suburbs of Charlotte, is a rapidly evol
 - **Governor:** Once a Republican stronghold, the district has seen a dramatic Democratic surge in gubernatorial races, with Stein (D) winning by over 34 points in 2024. High turnout in suburban Mecklenburg and growing diversity have fueled this shift, while Gaston’s suburbs are increasingly competitive, though the GOP still dominates in Gastonia proper.
 - **Senate:** Senate races have followed the same pattern, with Democratic margins rising from single digits to over 15 points in 2022. The district’s mix of affluent suburbs, diverse communities, and shifting cultural attitudes has made it a Democratic stronghold in federal races, but Gaston County continues to deliver strong Republican totals, especially in Gastonia.
 - **Attorney General:** Democratic candidates have posted double-digit wins in every cycle since 2016, with Jackson (D) winning by nearly 23 points in 2024. The trend mirrors the top of the ticket, with strong support from college-educated, minority, and younger voters in Mecklenburg, while Gaston’s GOP base remains resilient.
-- **Lt Governor:** The Democratic advantage has widened, from a near-tie in 2016 to a 19-point win in 2024, as suburban and minority turnout has surged. The race closely tracks presidential and gubernatorial results, with Gaston’s suburbs playing a key role in the margin, but Gastonia and rural Gaston precincts still provide a solid Republican floor.
+- **Lt Governor:** The Democratic advantage has widened, from a near-tie in 2016 to a 19-point win in 2024, as suburban and minority turnout increased. The race closely tracks presidential and gubernatorial results, with Gaston’s suburbs playing a key role in the margin, but Gastonia and rural Gaston precincts still provide a solid Republican floor.
 - **Supreme Court:** Judicial races have become increasingly lopsided, with Democratic margins above 12 points in every recent contest and Riggs (D) +17.7 in 2024. The results underscore the district’s deep blue identity and the growing influence of Charlotte’s professional and minority communities, as well as the competitive but still Republican-leaning nature of Gaston’s suburban and exurban precincts.
 
 **Narrative Note:** 
-- *NC-14 is a textbook example of suburban realignment in North Carolina, covering the fast-growing southern and western suburbs of Charlotte and extending into Gaston County. The district’s political culture is shaped by rapid population growth, economic opportunity, and increasing racial and ethnic diversity. Once a Republican bastion, NC-14 has become a Democratic stronghold as college-educated, nonwhite, and younger voters reshape the electorate. Mecklenburg County’s suburbs—especially Ballantyne, Matthews, and Pineville—have trended sharply left, while Gaston County, though still more conservative, is no longer immune to these changes. Gastonia remains a GOP stronghold, with Republicans still winning large majorities there, but Democratic candidates have made steady gains in Belmont, Mount Holly, and other Gaston suburbs. High turnout, competitive down-ballot races, and a dynamic, diverse population make NC-14 one of the most closely watched and politically dynamic districts in the state, with its future likely to mirror the broader trends of suburban America.*
+- *NC-14 is a textbook example of suburban realignment in North Carolina, covering the fast-growing southern and western suburbs of Charlotte and extending into Gaston County. The district’s political culture is shaped by rapid population growth, economic opportunity, and increasing racial and ethnic diversity. Once a Republican bastion, NC-14 has become a Democratic stronghold as college-educated, nonwhite, and younger voters reshape the electorate. Mecklenburg County’s suburbs—especially Ballantyne, Matthews, and Pineville—have trended sharply left, while Gaston County, though still more conservative, is no longer immune to these changes. Gastonia remains a GOP stronghold, with Republicans still winning large majorities there, but Democratic candidates have made steady gains in Belmont, Mount Holly, and other Gaston suburbs. High turnout, competitive down-ballot races, and a dynamic, diverse population make NC-14 one of the state’s most closely watched and politically dynamic districts, with its future likely to mirror the broader trends of suburban realignment in America.*
 
 **Key Takeaways**
 

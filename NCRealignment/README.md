@@ -1,5 +1,15 @@
-
 # North Carolina Congressional Realignment Case Study (2008–2024)
+
+![Version](https://img.shields.io/badge/version-2.0-blue.svg)
+
+## Version History
+**Current Version:** 2.0 (Late July 2025)
+- Major update: Expanded glossary, added "Key Takeaways" for each district, improved formatting and navigation, updated for 2024 results, and enhanced accessibility for public release.
+
+See the main case study for a detailed changelog.
+
+**Previous Version:** 1.0 (Early July 2025)
+- Initial public release: Included district-level and statewide results for all major races (2008–2024), background/context, methodology, project structure, and data sources. Focused on clarity, consistent formatting, and comprehensive tables, but did not include Key Takeaways, an expanded glossary, or versioning features. Some data inconsistencies were present in this version.
 
 
 ## Background & Context
@@ -36,21 +46,29 @@ This project analyzes partisan realignment and electoral trends in North Carolin
 
 
 ## Quick Start
-- Open `NC_Case_Study.md` to explore the full analysis, tables, and historical context.
+- Open `NC_Case_Study.md` to explore the full analysis, tables, historical context, "Key Takeaways" by district, and a comprehensive glossary.
 - Use the CSV data files for each election year to view raw district-level results.
 
 ## Key Findings (Sample)
 - North Carolina’s urban and suburban districts have trended more Democratic, while rural areas have shifted more Republican since 2008.
 - Split-ticket voting has declined but persists in some Council of State and judicial races.
 - Redistricting and legal battles have repeatedly altered the political landscape, making consistent analysis challenging without a stable map.
+- "Key Takeaways" sections summarize the most important trends and realignment patterns for each district.
+- County flips and margin analysis highlight the evolving partisan landscape and the impact of demographic and legal changes.
 
-## Glossary
+## Glossary of Key Terms
 - **Oth**: Other (third-party or independent candidates)
 - **Margin**: Difference in percentage points between the top two candidates
 - **Flip**: When a district or county changes party from the previous election
+- **Split-ticket voting**: When voters select candidates from different parties for different offices in the same election.
+- **Council of State**: The group of statewide elected executive offices in North Carolina, including Governor, Lt. Governor, Attorney General, and others.
+- **Redistricting**: The process of redrawing electoral district boundaries, often after a census, which can affect political representation and election outcomes.
+- **Key Takeaways**: Bullet-point summaries in the main case study highlighting the most important trends and insights for each district.
+- **County flip**: When a county changes party allegiance compared to the previous election for a given office.
+- **Retrofitting**: Applying historical election results to a new or current district map for consistent comparison across years.
 
 ## Contact & Feedback
-Questions, suggestions, or collaboration inquiries are welcome! Please contact Shamar Davis at [Shamard415@gmail.com] or via GitHub: [Tenjin25](https://github.com/Tenjin25).
+Questions, suggestions, or collaboration inquiries are welcome! Please contact Shamar Davis at [Shamard415@gmail.com](mailto:Shamard415@gmail.com) or via GitHub: [Tenjin25](https://github.com/Tenjin25).
 
 ## Further Reading
 - [North Carolina State Board of Elections](https://www.ncsbe.gov/)
