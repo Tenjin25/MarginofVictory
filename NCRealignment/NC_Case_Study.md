@@ -927,7 +927,7 @@ These results underscored the deepening urban-rural divide, the growing influenc
 |------------------|--------|
 | Jackson (D)         | +2.40  |
 
-Jeff Jackson (D) narrowly defeated Dan Bishop (R) for Attorney General in 2024, winning statewide by 2.4 percentage points. Jackson performed strongest in urban and suburban districts such as Raleigh, Durham, and Charlotte, while Bishop led in most rural and western regions. The results reflect continued urban-rural polarization and competitive statewide margins in North Carolina. The downballot drag from the gubernatorial nominee, Mark Robinson getting shellacked by just under 15 percentage points probably worked against Bishop and unaffiliated swung towards Jackson as a result.
+Jeff Jackson (D) narrowly defeated Dan Bishop (R) for Attorney General in 2024, winning statewide by 2.4 percentage points. Jackson performed strongest in urban and suburban districts such as Raleigh, Durham, and Charlotte, while Bishop led in most rural and western regions. The results reflect continued urban-rural polarization and competitive statewide margins in North Carolina. The downballot drag from the gubernatorial nominee, Mark Robinson, getting shellacked by just under 15 percentage points, probably worked against Bishop, and unaffiliated voters swung towards Jackson as a result.
 
 ## Trends in NC-01 (Northeast / Inner Coastal Plain)
 
