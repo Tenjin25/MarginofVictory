@@ -7,6 +7,7 @@
 
 ### Version 2.0 (Late July 2025)
 - Expanded glossary
+- Corrected data inconsistencies
 - Added "Key Takeaways" for each district
 - Improved formatting and navigation
 - Updated for 2024 results
