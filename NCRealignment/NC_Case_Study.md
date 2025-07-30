@@ -1043,37 +1043,37 @@ NC-02, covering northern Wake County and parts of Raleigh’s fast-growing subur
 NC-03, stretching along the Crystal Coast and rural eastern counties, remains a Republican stronghold. The district includes key coastal communities such as Morehead City, Jacksonville, and New Bern, as well as the Outer Banks and large swaths of rural farmland. It is home to major military installations, including Marine Corps Base Camp Lejeune and Marine Corps Air Station Cherry Point, and also Seymour Johnson Air Force Base in Goldsboro. Onslow County, anchored by Jacksonville and Camp Lejeune, is one of the fastest-growing counties in eastern North Carolina, with its population increasing by over 10% from 2010 to 2020. The economy is driven by tourism, fishing, agriculture, and the military, with relatively slow population growth elsewhere and limited urbanization. The district’s rural, military, and coastal communities have trended even more Republican, with large GOP margins in all recent statewide races. Democratic support is concentrated in a few coastal towns and among Black voters in rural areas, but the overall trend is one of increasing Republican dominance, especially as national politics have become more polarized. NC-03 exemplifies the GOP’s consolidation of rural and military regions in eastern North Carolina.
 
 **Key Trends:**
-**President:**
+- **President:**
     - 2008: McCain (R) 57.79%, Obama (D) 41.00% (R+16.79)
     - 2012: Romney (R) 60.32%, Obama (D) 39.68% (R+20.64)
     - 2016: Trump (R) 61.41%, Clinton (D) 35.34% (R+26.07)
     - 2020: Trump (R) 61.91%, Biden (D) 36.59% (R+25.32)
     - 2024: Trump (R) 64.37%, Harris (D) 34.76% (R+29.61)
-**Governor:**
+- **Governor:**
     - 2008: Perdue (D) 53.28%, McCrory (R) 44.22% (D+9.06)
     - 2012: McCrory (R) 60.85%, Dalton (D) 37.09% (R+23.76)
     - 2016: McCrory (R) 61.59%, Cooper (D) 36.50% (R+25.09)
     - 2020: Forest (R) 59.37%, Cooper (D) 39.09% (R+20.28)
     - 2024: Robinson (R) 53.53%, Stein (D) 41.33% (R+12.2)
-**Senate:**
-    - Dole (R) 52.17%, Hagan (D) 44.94% (R+7.23)
-    - Burr (R) 62.19%, Marshall (D) 35.85% (R+26.34)
-    - Tillis (R) 57.93%, Hagan (D) 38.14% (R+19.79)
-    - Burr 61.53%, Ross 34.91% (R+26.62)
-    - Tillis 59.38%, Cunningham 35.86% (R+23.52)
-    - Budd 64.02%, Beasley 33.63% (R+30.39)
-**Attorney General:**
-    - Newton 61.00%, Stein 39.00% (R+22)
-    - O'Neill 61.80%, Stein 38.20% (R+23.6)
-    - Bishop 61.60%, Jackson 38.40% (R+23.2)
-**Lt Governor:**
-    - Forest 61.46%, Coleman 35.87% (R+25.59)
-    - Robinson 63.38%, Holley 36.62% (R+26.76)
-    - Weatherman 59.97%, Hunt 36.72% (R+23.25)
-**Supreme Court:**
-    - Dietz 66.33%, Inman 33.67% (R+32.66)
-    - Allen 65.98%, Ervin 34.02% (R+31.96)
-    - Griffin 62.93%, Riggs 37.07% (R+25.86)
+- **Senate:**
+    - 2008: Dole (R) 52.17%, Hagan (D) 44.94% (R+7.23)
+    - 2010: Burr (R) 62.19%, Marshall (D) 35.85% (R+26.34)
+    - 2014: Tillis (R) 57.93%, Hagan (D) 38.14% (R+19.79)
+    - 2016: Burr 61.53%, Ross 34.91% (R+26.62)
+    - 2020: Tillis 59.38%, Cunningham 35.86% (R+23.52)
+    - 2022: Budd 64.02%, Beasley 33.63% (R+30.39)
+- **Attorney General:**
+    - 2016: Newton 61.00%, Stein 39.00% (R+22)
+    - 2020: O'Neill 61.80%, Stein 38.20% (R+23.6)
+    - 2024: Bishop 61.60%, Jackson 38.40% (R+23.2)
+- **Lt Governor:**
+    - 2016: Forest 61.46%, Coleman 35.87% (R+25.59)
+    - 2020: Robinson 63.38%, Holley 36.62% (R+26.76)
+    - 2024: Weatherman 59.97%, Hunt 36.72% (R+23.25)
+- **Supreme Court:**
+    - 2022: Dietz 66.33%, Inman 33.67% (R+32.66)
+    - 2022.1: Allen 65.98%, Ervin 34.02% (R+31.96)
+    - 2024: Griffin 62.93%, Riggs 37.07% (R+25.86)
 
 
 
