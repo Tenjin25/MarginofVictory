@@ -1014,7 +1014,7 @@ NC-02, covering northern Wake County and parts of Raleigh’s fast-growing subur
 - **Lt Governor:** Democratic candidates have won each cycle by increasingly large margins, with the gap widening from about 13 points in 2016 to over 31 points in 2024. This growing advantage reflects the district’s rapid suburban growth, rising educational attainment, and increasing racial and ethnic diversity. Democratic strength is anchored in affluent, highly educated suburbs and fast-growing communities, while Republican support has diminished as the district’s demographics have shifted.
 
 **Narrative Note:**
-- *NC-02’s explosive suburban growth and increasing diversity have transformed it into a Democratic stronghold, with margins widening in every recent statewide race. The district is now a core part of the Democratic coalition in the Triangle, with its political future closely tied to the ongoing trends of urbanization and demographic change.*
+- *NC-02’s explosive suburban growth and increasing diversity have transformed it into a Democratic stronghold, with margins widening in every recent statewide race. The district is now a core part of the Democratic coalition in the Triangle, with its political future closely tied to the ongoing trends of urbanization and demographic change. It is also the first of three firewall districts for NC Democrats.*
 
 **Key Takeaways:**
 - NC-02 has transformed from a competitive/GOP-leaning seat to a Democratic stronghold.
@@ -1138,7 +1138,7 @@ NC-04, anchored by Durham, Chapel Hill, and the Research Triangle Park, is the m
 - Anchored by universities, tech, and a highly diverse, educated population. 
 - Urban core drives Democratic dominance; rural outlying areas are more competitive but outweighed.
 - The district is a progressive stronghold and a core anchor of the Democratic coalition in NC.
-
+- This district is also the second firewall district for NC Democrats.
 ---
 
 ## Trends in NC-05 (Northwest / Foothills / Mt. Airy)
@@ -1597,6 +1597,7 @@ NC-12 is centered on Uptown Charlotte and its northern suburbs, including Davids
 - Economic growth, young professionals, and demographic change drive increasing Democratic strength.
 - Republican support is limited to a few suburban precincts.
 - Progressive activism and high educational attainment shape the district’s political culture.
+- This is the third firewall district for NC Democrats and the last one for now.
 
 ---
 
@@ -1652,6 +1653,7 @@ NC-13 is one of North Carolina’s most competitive and rapidly changing distric
 - The district’s electorate is a true cross-section: suburban professionals, young families, rural conservatives, and significant Black and Latino communities.
 - Both parties invest heavily in organizing and turnout, making NC-13 a perennial battleground and bellwether for statewide trends.
 - High turnout in suburban and minority precincts is decisive in close elections.
+- When the Raleigh Outer Loop is completed in the next few years, I anticipate Johnston County, especially in the Clayton area, to explode in suburban development and new people moving in at a more rapid rate than it is right now.
 
 ---
 
@@ -1711,7 +1713,7 @@ NC-14, covering the southern and western suburbs of Charlotte, is a rapidly evol
 - Mecklenburg County's suburbs have trended sharply left, while Gaston County remains a Republican anchor but is no longer immune to change.
 - High turnout, competitive down-ballot races, and a dynamic, diverse population make NC-14 one of the state’s most closely watched districts.
 - The district’s future will likely mirror broader trends of suburban realignment in America.
-
+- Due to the rapid leftward shift in the Mecklenburg County portion of the district, this will likely become a firewall district for NC Democrats in the not-too-distant future.
 ---
 
 ## Key Political Terms and Concepts
