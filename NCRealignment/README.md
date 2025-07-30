@@ -50,7 +50,7 @@ This project analyzes partisan realignment and electoral trends in North Carolin
 - **Flip**: When a district or county changes party from the previous election
 
 ## Contact & Feedback
-Questions, suggestions, or collaboration inquiries are welcome! Please contact Shamar Davis at [your-email@example.com] or via GitHub.
+Questions, suggestions, or collaboration inquiries are welcome! Please contact Shamar Davis at [Shamard415@gmail.com] or via GitHub.
 
 ## Further Reading
 - [North Carolina State Board of Elections](https://www.ncsbe.gov/)
