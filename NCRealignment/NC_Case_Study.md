@@ -1272,6 +1272,110 @@ The district’s economy is anchored by manufacturing, logistics, agriculture, a
 > **Supreme Court:** Republican candidates have swept all recent Supreme Court races, with margins above 36 points, underscoring the district’s deep red identity. The results reflect both high partisan loyalty and the district’s strong alignment with the NCGOP’s statewide coalition, making NC-10 a linchpin for Republican judicial victories.
 
 ---
+## Trends in NC-09 (Asheboro / Fort Bragg / Southern Pines)
+
+**Summary:**  
+NC-09 includes all of Randolph, Lee, Chatham, Scotland, Hoke, and Moore counties, as well as portions of Cumberland, Harnett, and the eastern part of Richmond County (east of Rockingham). The district encompasses a wide range of communities—from the rapidly growing exurban and suburban areas of Randolph and Chatham Counties, to the military-centered towns near Fort Bragg in Cumberland and Hoke Counties, to the rural farming regions of Scotland and Richmond Counties. Moore County is known for its affluent retirement communities and golf resorts (notably Pinehurst and Southern Pines), while Chatham and Lee are experiencing significant population growth due to their proximity to the Research Triangle and the Triad. The district also includes parts of Fayetteville, a major military and economic hub, and stretches into the Sandhills and Piedmont regions, blending small towns, agricultural areas, and suburban developments. Despite this diversity, the district’s political identity is anchored by the deep-red base in Randolph County, whose overwhelming Republican margins shape the overall partisan balance of NC-09.
+
+Randolph County, which anchors the northern part of the district, is not only one of the most Republican-dominated counties in North Carolina, but also stands out as one of the most reliably Republican counties in the entire South. Since 1944, it has supported the Republican presidential candidate in every election, and no Democrat has reached 40% of the vote since Jimmy Carter in 1976. In recent cycles, Republican candidates routinely receive 70–78% of the vote in Randolph, and local GOP dominance is so strong that many county offices are uncontested by Democrats. The county's overwhelming Republican margins are so decisive that, if Randolph were excluded, NC-09 would be a high single-digit Democratic district or at least highly competitive in most statewide races. Randolph's deep-red base provides a strong foundation for GOP performance in NC-09, counterbalancing more competitive or Democratic-leaning areas elsewhere in the district.
+
+Randolph is also a fast-growing exurb, much like neighboring Davidson County, with population growth fueled by its proximity to the Triad and affordable housing. Suburban expansion along the I-73/74 and US-64 corridors has brought new residents, but the county’s political culture remains deeply conservative. Randolph’s growth has been driven by families seeking a suburban or small-town lifestyle within commuting distance of Greensboro, High Point, and Winston-Salem, as well as by the expansion of local manufacturing and logistics industries. The recent development of the Liberty Megasite—a massive industrial park and future home to major automotive and advanced manufacturing facilities—has further accelerated economic growth and is expected to bring thousands of new jobs and residents to the area over the next decade.
+
+Randolph’s political culture is shaped by a combination of historical conservatism, a predominantly white and rural population, and a strong tradition of evangelical Protestantism. The county’s economy is anchored by manufacturing, agriculture, and small businesses, with Asheboro serving as the economic and civic hub. Despite some suburban growth and the presence of the North Carolina Zoo, Randolph has seen little demographic change compared to other parts of the state, reinforcing its status as a Republican stronghold. The county’s political identity is further cemented by active local GOP organizations, a high rate of Republican voter registration, and a culture of civic engagement that favors conservative values.
+
+While Republicans have generally held an edge, Democratic candidates have made gains in recent cycles, especially in precincts with high minority and military populations. However, despite some competitive precincts, NC-09 as a whole is not a true swing district. The district’s overall margins consistently favor Republicans, and the GOP’s dominance in Randolph and other exurban counties provides a reliable base that is difficult for Democrats to overcome. Both parties invest in organizing and turnout, but the district’s political fundamentals remain solidly Republican, with only isolated areas showing significant Democratic strength.
+
+**Key Trends:**
+- **President:**
+    - 2008: McCain (R) vs. Obama (D): McCain (R) +1.57 (50.17% to 48.60%)
+    - 2012: Romney (R) vs. Obama (D): Romney (R) +4.72 (52.36% to 47.64%)
+    - 2016: Trump (R) vs. Clinton (D): Trump (R) +8.22 (52.27% to 44.05%)
+    - 2020: Trump (R) vs. Biden (D): Trump (R) +7.96 (53.23% to 45.27%)
+    - 2024: Trump (R) vs. Harris (D): Trump (R) +11.18 (55.07% to 43.89%)
+- **Governor:**
+    - 2008: Perdue (D) vs. McCrory (R): Perdue (D) +5.34 (51.24% to 45.90%)
+    - 2012: McCrory (R) vs. Dalton (D): McCrory (R) +9.98 (53.95% to 43.97%)
+    - 2016: McCrory (R) vs. Cooper (D): McCrory (R) +5.19 (51.48% to 46.29%)
+    - 2020: Forest (R) vs. Cooper (D): Forest (R) +0.64 (49.51% to 48.87%)
+    - 2024: Stein (D) vs. Robinson (R): Stein (D) +6.27 (50.53% to 44.26%)
+- **Senate:**
+    - 2008: Hagan (D) vs. Dole (R): Hagan (D) +7.38 (52.11% to 44.73%)
+    - 2010: Burr (R) vs. Marshall (D): Burr (R) +11.99 (54.92% to 42.93%)
+    - 2014: Tillis (R) vs. Hagan (D): Tillis (R) +5.45 (50.96% to 45.51%)
+    - 2016: Burr (R) vs. Ross (D): Burr (R) +9.2 (52.83% to 43.63%)
+    - 2020: Tillis (R) vs. Cunningham (D): Tillis (R) +7.14 (51.20% to 44.06%)
+    - 2022: Budd (R) vs. Beasley (D): Budd (R) +10.42 (54.12% to 43.70%)
+- **Attorney General:**
+    - 2016: Newton (R) vs. Stein (D): Newton (R) +4 (52.00% to 48.00%)
+    - 2020: O'Neill (R) vs. Stein (D): O'Neill (R) +5.42 (52.71% to 47.29%)
+    - 2024: Bishop (R) vs. Jackson (D): Bishop (R) +6.14 (53.07% to 46.93%)
+- **Lt Governor:**
+    - 2016: Forest (R) vs. Coleman (D): Forest (R) +9.41 (53.28% to 43.87%)
+    - 2020: Robinson (R) vs. Holley (D): Robinson (R) +8.8 (54.40% to 45.60%)
+    - 2024: Weatherman (R) vs. Hunt (D): Weatherman (R) +6.09 (51.46% to 45.37%)
+- **Supreme Court:**
+    - 2022: Dietz (R) vs. Inman (D): Dietz (R) +10.86 (55.43% to 44.57%)
+    - 2022.1: Allen (R) vs. Ervin (D): Allen (R) +11.42 (55.71% to 44.29%)
+    - 2024: Griffin (R) vs. Riggs (D): Griffin (R) +7.86 (53.93% to 46.07%)
+
+**Analytical Notes:**
+> **President:** While NC-09 has seen some competitive precincts, the district as a whole is not a true battleground. Since 2008, Republican presidential candidates have consistently won the district, with margins ranging from 1.6 to over 11 points as the GOP’s rural and exurban base has solidified. Randolph County, one of the most Republican counties in the South, anchors the district’s deep-red identity, routinely delivering 70–78% of the vote for GOP candidates. Moore County’s affluent suburbs and golf communities, along with rural Scotland and Richmond, further reinforce the Republican advantage. Democratic gains in military and minority precincts—especially in parts of Cumberland, Hoke, and Lee—have narrowed margins in some cycles, but these are outweighed by the overwhelming GOP strength in Randolph, Moore, and the exurban growth corridors. The 2024 race saw Trump expand his margin to 11.2 points, reflecting continued Republican dominance in rural and exurban areas, with only isolated Democratic strength in military and minority-heavy precincts.
+> **Governor:** Gubernatorial races have swung between the parties, but Republicans generally hold an edge, with Democratic wins driven by strong turnout in urban and military precincts. The district’s mix of military, suburban, and rural communities makes it a bellwether for statewide trends, but the fundamentals remain Republican, especially as Randolph and Moore counties continue to grow and anchor the GOP base.
+> **Senate:** Senate contests have been competitive in some cycles, but the GOP has maintained a consistent advantage, with margins under 12 points since 2008. Democratic gains in military and minority precincts have been offset by strong Republican performance in Randolph, Moore, and exurban areas. The 2022 race saw Budd (R) win by 10.4 points, underscoring the district’s solid GOP lean.
+> **Attorney General:** Margins have shifted from a near-tie in 2016 (Newton +4) to a clear Republican edge in 2024 (Bishop +6.1), as the GOP consolidates support in rural and military communities. The race has become a bellwether for broader partisan trends, but the fundamentals remain Republican, with local issues like public safety and veterans’ affairs playing a larger role.
+> **Lt Governor:** The district has flipped between parties, but the Republican margin has generally grown, with only modest Democratic gains in high-turnout cycles. Suburban and minority turnout can narrow margins, but the GOP’s rural and exurban base remains decisive.
+> **Supreme Court:** Judicial races have been competitive, with Republican margins ranging from 7.9 to 11.4 points. The results reflect the district’s overall Republican alignment, with only isolated Democratic strength in military and minority precincts. The GOP’s dominance in Randolph, Moore, and exurban counties ensures a consistent Republican advantage, even in lower-salience judicial contests.
+
+**Narrative Note:**  
+> *NC-09 is a reliably Republican district, anchored by the deep-red base in Randolph County—one of the most Republican counties in the South—and reinforced by strong GOP margins in Moore, Scotland, and the fast-growing exurban corridors of Chatham and Lee. The district’s political identity is shaped by a mix of rural, suburban, and military communities, but the overwhelming Republican vote in Randolph, Moore’s affluent suburbs and golf communities, and the conservative small towns of Scotland and Richmond ensure a solid GOP advantage. The recent development of the Liberty Megasite in Randolph is expected to further accelerate economic and population growth, likely reinforcing the county’s Republican tilt. While military and minority precincts in Cumberland, Hoke, and Lee provide pockets of Democratic support—especially near Fort Bragg and in urban Fayetteville—these are consistently outweighed by the GOP’s dominance in the rest of the district. The result is a district where Republican candidates routinely win by comfortable margins, and where demographic and economic trends continue to favor the GOP, making NC-09 a cornerstone of the party’s statewide coalition rather than a true battleground.*
+
+## Trends in NC-10 (Western Foothills / NW Gaston / Cleveland County)
+
+**Summary:**  
+NC-10 covers the western foothills and lower mountain regions, including Cleveland, Lincoln, Catawba, Burke, and northwestern Gaston, eastern Rutherford, and southern Caldwell counties. Anchored by cities like Hickory, Shelby, Lincolnton, and Morganton, the district is predominantly white, working-class, and deeply conservative. The economy is driven by manufacturing, logistics, and agriculture, with a legacy of textile and furniture production. Population growth is slow, with some out-migration of younger residents, but Gaston County’s exurbs are expanding as Charlotte’s influence creeps westward. The region’s political culture is shaped by evangelical churches, small-town traditions, and a strong sense of local identity. NC-10 is one of the most reliably Republican districts in the state, with the GOP routinely winning by 30 points or more in federal and statewide races. Democratic support is limited to a few urban precincts in Hickory and Morganton—Hickory is home to Lenoir-Rhyne University, which serves as a small but notable Democratic pocket—but the overall trend is one of overwhelming Republican dominance. Notably, NC-10 also includes all of Iredell and Alexander counties. In addition to its traditional manufacturing and agricultural base, NC-10 is increasingly shaped by rapid suburban growth along the Lake Norman corridor, which spans both southern Iredell County (Mooresville, Troutman) and eastern Lincoln County (Denver, Lake Norman communities). These areas have attracted an influx of families, professionals, and retirees drawn by proximity to Charlotte, new housing developments, and recreational opportunities on Lake Norman. The result is a district that blends old-line, small-town conservatism with pockets of dynamic suburban expansion. While this growth has diversified the local economy and population, the district remains overwhelmingly Republican, with the new arrivals generally reinforcing rather than diluting the GOP's dominance.
+
+**Key Trends:**
+
+- **President:**
+    - 2008: McCain (R) vs. Obama (D): McCain (R) +26.16 (62.38% to 36.22%)
+    - 2012: Romney (R) vs. Obama (D): Romney (R) +31.04 (65.52% to 34.48%)
+    - 2016: Trump (R) vs. Clinton (D): Trump (R) +40.08 (68.31% to 28.23%)
+    - 2020: Trump (R) vs. Biden (D): Trump (R) +39.46 (69.11% to 29.65%)
+    - 2024: Trump (R) vs. Harris (D): Trump (R) +40.31 (69.74% to 29.43%)
+
+- **Governor:**
+    - 2008: McCrory (R) vs. Perdue (D): McCrory (R) +27.09 (62.47% to 35.38%)
+    - 2012: McCrory (R) vs. Dalton (D): McCrory (R) +41.68 (70.02% to 28.34%)
+    - 2016: McCrory (R) vs. Cooper (D): McCrory (R) +32.32 (64.95% to 32.63%)
+    - 2020: Forest (R) vs. Cooper (D): Forest (R) +32.86 (65.76% to 32.90%)
+    - 2024: Robinson (R) vs. Stein (D): Robinson (R) +20.65 (57.65% to 37.00%)
+
+- **Senate:**
+    - 2008: Dole (R) vs. Hagan (D): Dole (R) +12.08 (54.00% to 41.92%)
+    - 2010: Burr (R) vs. Marshall (D): Burr (R) +33.21 (65.38% to 32.17%)
+    - 2014: Tillis (R) vs. Hagan (D): Tillis (R) +29.07 (61.79% to 32.72%)
+    - 2016: Burr (R) vs. Ross (D): Burr (R) +38.24 (66.77% to 28.53%)
+    - 2020: Tillis (R) vs. Cunningham (D): Tillis (R) +37.11 (66.20% to 29.09%)
+    - 2022: Budd (R) vs. Beasley (D): Budd (R) +41.49 (69.64% to 28.15%)
+
+- **Attorney General:**
+    - 2016: Newton (R) vs. Stein (D): Newton (R) +31.26 (65.63% to 34.37%)
+    - 2020: O'Neill (R) vs. Stein (D): O'Neill (R) +35.98 (67.99% to 32.01%)
+    - 2024: Bishop (R) vs. Jackson (D): Bishop (R) +33.34 (66.67% to 33.33%)
+
+- **Lt Governor:**
+    - 2016: Forest (R) vs. Coleman (D): Forest (R) +41.68 (69.49% to 27.81%)
+    - 2020: Robinson (R) vs. Holley (D): Robinson (R) +40.36 (70.18% to 29.82%)
+    - 2024: Weatherman (R) vs. Hunt (D): Weatherman (R) +34.44 (65.86% to 31.42%)
+
+- **Supreme Court:**
+    - 2022: Inman (D) vs. Dietz (R): Dietz (R) +43.58 (71.79% to 28.21%)
+    - 2022.1: Ervin (D) vs. Allen (R): Allen (R) +41.32 (70.66% to 29.34%)
+    - 2024: Griffin (R) vs. Riggs (D): Griffin (R) +36.16 (68.08% to 31.92%)
+
+**Narrative Note:**  
+> *NC-10 is a textbook example of a modern Republican stronghold in North Carolina, blending old-line manufacturing towns, rural communities, and rapidly growing exurbs. Anchored by cities like Hickory (home to Lenoir-Rhyne University), Shelby, Lincolnton, and Morganton, the district’s economic legacy of textiles, furniture, and agriculture has fostered a working-class, socially conservative electorate. While population growth is slow in many areas, the Lake Norman corridor and Gaston County’s exurbs are expanding as Charlotte’s influence creeps westward, attracting new families and retirees who have largely reinforced the GOP’s dominance. The region’s political culture is shaped by evangelical churches, small-town traditions, and a strong sense of local identity, with Democratic support limited to a few urban precincts and university communities. The GOP routinely wins by 30 points or more in federal and statewide races, and even as the local economy and population diversify, the district remains overwhelmingly Republican. NC-10’s blend of traditional conservatism and dynamic suburban growth makes it a linchpin for Republican victories in statewide and federal contests, with little sign of Democratic resurgence outside isolated pockets like Lenoir-Rhyne in Hickory.*
+---
 
 ## Trends in NC-11 (Asheville / Hendersonville / Brevard)
 
