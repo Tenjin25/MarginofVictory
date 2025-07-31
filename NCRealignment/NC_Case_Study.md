@@ -932,7 +932,7 @@ Jeff Jackson (D) narrowly defeated Dan Bishop (R) for Attorney General in 2024, 
 ## Trends in NC-01 (Northeast / Inner Coastal Plain)
 
 **Summary:**  
-NC-01, covering much of northeastern North Carolina, has long been a Democratic-leaning district due to its significant Black population, historic ties to the civil rights movement, and a large share of rural, agricultural communities. While Democrats have traditionally dominated, Republican gains have accelerated in recent cycles—especially in rural and working-class counties. The district’s margins have steadily narrowed from 2008 through 2024, reflecting both demographic change and national political realignment. Today, NC-01 remains anchored by Black-majority precincts and Democratic-leaning urban centers, but faces growing GOP strength in rural and exurban areas, making it more competitive than at any point in recent history.
+NC-01, covering much of northeastern North Carolina—including cities like Rocky Mount, Greenville, Elizabeth City, and Wilson—has long been a Democratic-leaning district due to its significant Black population, historic ties to the civil rights movement, and a large share of rural, agricultural communities. Once considered a Democratic stronghold, Republican gains have accelerated in recent cycles—especially in rural and working-class counties. The district’s margins have steadily narrowed from 2008 through 2024, reflecting both demographic change and national political realignment. Today, NC-01 remains anchored by Black-majority precincts and Democratic-leaning urban centers, but faces growing GOP strength in rural and exurban areas, making it more competitive than at any point in recent history.
 
 **Key Trends:**
 - **President:**
